@@ -5,10 +5,10 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 377,
-      "y": 34,
-      "width": 1517,
-      "height": 962,
+      "x": 323,
+      "y": 119,
+      "width": 1259,
+      "height": 871,
       "layout": {
         "children": [
           {
@@ -18,23 +18,23 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 408,
+                "height": 365.71875,
                 "type": "panel",
-                "width": 345
+                "width": 283.953125
               },
               {
                 "active": 0,
                 "children": [
                   "assets"
                 ],
-                "height": 470,
+                "height": 421.28125,
                 "type": "panel",
-                "width": 345
+                "width": 283.953125
               }
             ],
-            "height": 881,
+            "height": 790,
             "type": "dock-v",
-            "width": 345
+            "width": 283.953125
           },
           {
             "children": [
@@ -43,9 +43,9 @@
                 "children": [
                   "scene"
                 ],
-                "height": 612,
+                "height": 521,
                 "type": "panel",
-                "width": 808
+                "width": 665.046875
               },
               {
                 "active": 2,
@@ -56,12 +56,12 @@
                 ],
                 "height": 266,
                 "type": "panel",
-                "width": 808
+                "width": 665.046875
               }
             ],
-            "height": 881,
+            "height": 790,
             "type": "dock-v",
-            "width": 808
+            "width": 665.046875
           },
           {
             "active": 0,
@@ -69,9 +69,9 @@
               "inspector",
               "cocos-services"
             ],
-            "height": 881,
+            "height": 790,
             "type": "panel",
-            "width": 358
+            "width": 304
           }
         ],
         "type": "dock-h"
@@ -86,7 +86,8 @@
         "inspector",
         "cocos-services"
       ]
-    }
+    },
+    "worker": {}
   },
   "panels": {
     "preferences": {

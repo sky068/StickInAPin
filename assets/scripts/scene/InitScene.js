@@ -82,12 +82,7 @@ cc.Class({
         zy.dataMng.loadDataFromLocalFile((c, t)=>{
             cc.log("load local cfg: %d/%d", c, t);
         }, ()=>{
-            // zy.guide = require('./Lib/common/Guide');
-            // zy.guide.init({
-            //     step: zy.dataMng.userData.guide,
-            // });
-            // zy.director.loadScene("TestScene");
-            zy.director.loadScene("MapScene");            
+            zy.director.loadScene("TestScene");            
         });
 
     },
