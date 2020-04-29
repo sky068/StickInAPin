@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "邮局",
+    "texture": "48d5e9c1-8307-499b-b0c2-43bb521e7736",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      640,
+      681
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      640,
+      681
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

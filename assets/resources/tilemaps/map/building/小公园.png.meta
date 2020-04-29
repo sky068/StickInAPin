@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "003ef94f-fc1e-42f4-893f-de2bb63eedf1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "小公园": {
+      "ver": "1.0.4",
+      "uuid": "b388d8a9-e556-4f69-b2be-45fd97c6bba4",
+      "rawTextureUuid": "003ef94f-fc1e-42f4-893f-de2bb63eedf1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6,
+      "offsetY": -6,
+      "trimX": 8,
+      "trimY": 12,
+      "width": 723,
+      "height": 727,
+      "rawWidth": 751,
+      "rawHeight": 739,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

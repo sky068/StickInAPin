@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蛋糕店",
+    "texture": "f2k/vL9aVAnqX02qCCDfQ4",
+    "rect": [
+      0,
+      0,
+      276,
+      360
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      276,
+      360
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

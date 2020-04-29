@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蒙版组 45",
+    "texture": "cd27253a-920c-4f43-a33f-f2f7987b6172",
+    "atlas": "",
+    "rect": [
+      0,
+      128,
+      255,
+      128
+    ],
+    "offset": [
+      -0.5,
+      -64
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

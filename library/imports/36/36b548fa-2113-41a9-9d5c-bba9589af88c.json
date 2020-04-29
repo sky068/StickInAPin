@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蒙版组 65",
+    "texture": "8b7028d6-31fe-478b-8717-f2e899d7372b",
+    "atlas": "",
+    "rect": [
+      0,
+      128,
+      256,
+      128
+    ],
+    "offset": [
+      0,
+      -64
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,1827 @@
+{
+  "9836134e-b892-4283-b6b2-78b5acf3ed45": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "effects"
+  },
+  "430eccbf-bf2c-4e6e-8c0c-884bbb487f32": {
+    "asset": 1577454458000,
+    "meta": 1582876291645,
+    "relativePath": "effects/__builtin-editor-gizmo-line.effect"
+  },
+  "6c5cf6e1-b044-4eac-9431-835644d57381": {
+    "asset": 1577454458000,
+    "meta": 1582876291670,
+    "relativePath": "effects/__builtin-editor-gizmo-unlit.effect"
+  },
+  "115286d1-2e10-49ee-aab4-341583f607e8": {
+    "asset": 1577454458000,
+    "meta": 1582876291734,
+    "relativePath": "effects/__builtin-editor-gizmo.effect"
+  },
+  "abc2cb62-7852-4525-a90d-d474487b88f2": {
+    "asset": 1577454458000,
+    "meta": 1582876291775,
+    "relativePath": "effects/builtin-phong.effect"
+  },
+  "e2f00085-c597-422d-9759-52c360279106": {
+    "asset": 1577454458000,
+    "meta": 1582876291776,
+    "relativePath": "effects/builtin-toon.effect"
+  },
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "image"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1577454458000,
+    "meta": 1582876291837,
+    "relativePath": "image/default_btn_disabled.png"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1577454458000,
+    "meta": 1582876291839,
+    "relativePath": "image/default_btn_normal.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1577454458000,
+    "meta": 1582876291844,
+    "relativePath": "image/default_btn_pressed.png"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1577454458000,
+    "meta": 1582876291845,
+    "relativePath": "image/default_editbox_bg.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1577454458000,
+    "meta": 1582876291851,
+    "relativePath": "image/default_panel.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1577454458000,
+    "meta": 1582876291852,
+    "relativePath": "image/default_progressbar_bg.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1577454458000,
+    "meta": 1582876291857,
+    "relativePath": "image/default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1577454458000,
+    "meta": 1582876291859,
+    "relativePath": "image/default_radio_button_off.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1577454458000,
+    "meta": 1582876291864,
+    "relativePath": "image/default_radio_button_on.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1577454458000,
+    "meta": 1582876291865,
+    "relativePath": "image/default_scrollbar_bg.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1577454458000,
+    "meta": 1582876291871,
+    "relativePath": "image/default_scrollbar_vertical_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1577454458000,
+    "meta": 1582876291872,
+    "relativePath": "image/default_scrollbar_vertical.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1577454458000,
+    "meta": 1582876291878,
+    "relativePath": "image/default_scrollbar.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1577454458000,
+    "meta": 1582876291879,
+    "relativePath": "image/default_sprite_splash.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1577454458000,
+    "meta": 1582876291885,
+    "relativePath": "image/default_toggle_checkmark.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1577454458000,
+    "meta": 1582876291886,
+    "relativePath": "image/default_sprite.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1577454458000,
+    "meta": 1582876291891,
+    "relativePath": "image/default_toggle_disabled.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1577454458000,
+    "meta": 1582876291892,
+    "relativePath": "image/default_toggle_normal.png"
+  },
+  "5c3eedba-6c41-4c0c-9ba7-d91f813cbd1c": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "materials"
+  },
+  "c4480a0a-6ac5-443f-8b40-361a14257fc8": {
+    "asset": 1577454458000,
+    "meta": 1582876291895,
+    "relativePath": "materials/builtin-phong.mtl"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "misc"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1577454458000,
+    "meta": 1582876291899,
+    "relativePath": "misc/default_video.mp4"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1577454458000,
+    "meta": 1582876291900,
+    "relativePath": "image/default_toggle_pressed.png"
+  },
+  "db019bf7-f71c-4111-98cf-918ea180cb48": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "model"
+  },
+  "e39e96e6-6f6e-413f-bcf1-ac7679bb648a": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "model/prefab"
+  },
+  "a87cc147-01b2-43f8-8e42-a7ca90b0c757": {
+    "asset": 1582694083042,
+    "meta": 1582876291903,
+    "relativePath": "model/prefab/box.prefab"
+  },
+  "fe1417b6-fe6b-46a4-ae7c-9fd331f33a2a": {
+    "asset": 1582694083043,
+    "meta": 1582876291904,
+    "relativePath": "model/prefab/capsule.prefab"
+  },
+  "b5fc2cf2-7942-483d-be1f-bbeadc4714ad": {
+    "asset": 1582694083045,
+    "meta": 1582876291905,
+    "relativePath": "model/prefab/cone.prefab"
+  },
+  "1c5e4038-953a-44c2-b620-0bbfc6170477": {
+    "asset": 1582694083046,
+    "meta": 1582876291906,
+    "relativePath": "model/prefab/cylinder.prefab"
+  },
+  "3f376125-a699-40ca-ad05-04d662eaa1f2": {
+    "asset": 1582694083048,
+    "meta": 1582876291908,
+    "relativePath": "model/prefab/plane.prefab"
+  },
+  "6c9ef10d-b479-420b-bfe6-39cdda6a8ae0": {
+    "asset": 1582694083048,
+    "meta": 1582876291909,
+    "relativePath": "model/prefab/quad.prefab"
+  },
+  "2d9a4b85-b0ab-4c46-84c5-18f393ab2058": {
+    "asset": 1582694083050,
+    "meta": 1582876291910,
+    "relativePath": "model/prefab/sphere.prefab"
+  },
+  "de510076-056b-484f-b94c-83bef217d0e1": {
+    "asset": 1582694083051,
+    "meta": 1582876291923,
+    "relativePath": "model/prefab/torus.prefab"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "obsolete"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1577454458000,
+    "meta": 1582876291943,
+    "relativePath": "obsolete/atom.png"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "particle"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1577454458000,
+    "meta": 1582876292139,
+    "relativePath": "obsolete/atom.plist"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1577454458000,
+    "meta": 1582876291966,
+    "relativePath": "particle/atom.png"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "prefab"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1577454458000,
+    "meta": 1582876292142,
+    "relativePath": "particle/atom.plist"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1582694083085,
+    "meta": 1582876291969,
+    "relativePath": "prefab/button.prefab"
+  },
+  "897ef7a1-4860-4f64-968d-f5924b18668a": {
+    "asset": 1582694083086,
+    "meta": 1582876291970,
+    "relativePath": "prefab/camera.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1582694083088,
+    "meta": 1582876291971,
+    "relativePath": "prefab/canvas.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1582694083089,
+    "meta": 1582876291973,
+    "relativePath": "prefab/editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1582694083091,
+    "meta": 1582876291974,
+    "relativePath": "prefab/label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1582694083093,
+    "meta": 1582876291975,
+    "relativePath": "prefab/layout.prefab"
+  },
+  "a3ee0214-b432-4865-9666-4a3211814282": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "prefab/light"
+  },
+  "61906da3-7003-4bda-9abc-5769c76faee4": {
+    "asset": 1582694083094,
+    "meta": 1582876291977,
+    "relativePath": "prefab/light/ambient.prefab"
+  },
+  "ddb99b39-7004-47cd-9705-751905c43c46": {
+    "asset": 1582694083096,
+    "meta": 1582876291978,
+    "relativePath": "prefab/light/directional.prefab"
+  },
+  "0cf30284-9073-46bc-9eba-e62b69dbbff3": {
+    "asset": 1582694083097,
+    "meta": 1582876291979,
+    "relativePath": "prefab/light/point.prefab"
+  },
+  "f5331fd2-bf42-4ee3-a3fd-3e1657600eff": {
+    "asset": 1582694083099,
+    "meta": 1582876291981,
+    "relativePath": "prefab/light/spot.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1582694083101,
+    "meta": 1582876291982,
+    "relativePath": "prefab/pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1582694083102,
+    "meta": 1582876291984,
+    "relativePath": "prefab/particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1582694083104,
+    "meta": 1582876291986,
+    "relativePath": "prefab/progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1582694083105,
+    "meta": 1582876291987,
+    "relativePath": "prefab/richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1582694083108,
+    "meta": 1582876291990,
+    "relativePath": "prefab/scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1582694083109,
+    "meta": 1582876291992,
+    "relativePath": "prefab/slider.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1582694083111,
+    "meta": 1582876291998,
+    "relativePath": "prefab/sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1582694083112,
+    "meta": 1582876291999,
+    "relativePath": "prefab/sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1582694083114,
+    "meta": 1582876292001,
+    "relativePath": "prefab/tiledmap.prefab"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1582694083116,
+    "meta": 1582876292003,
+    "relativePath": "prefab/tiledtile.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1582694083117,
+    "meta": 1582876292004,
+    "relativePath": "prefab/toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1582694083123,
+    "meta": 1582876292012,
+    "relativePath": "prefab/toggleContainer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1582694083125,
+    "meta": 1582876292025,
+    "relativePath": "prefab/toggleGroup.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1582694083128,
+    "meta": 1582876292027,
+    "relativePath": "prefab/videoplayer.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1582694083137,
+    "meta": 1582876292034,
+    "relativePath": "prefab/webview.prefab"
+  },
+  "d8afc78c-4eac-4a9f-83dd-67bc70344d33": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "resources"
+  },
+  "294c1663-4adf-4a1e-a795-53808011a38a": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "resources/effects"
+  },
+  "144c3297-af63-49e8-b8ef-1cfa29b3be28": {
+    "asset": 1577454458000,
+    "meta": 1582876292056,
+    "relativePath": "resources/effects/builtin-2d-gray-sprite.effect"
+  },
+  "0e93aeaa-0b53-4e40-b8e0-6268b4e07bd7": {
+    "asset": 1577454458000,
+    "meta": 1582876292066,
+    "relativePath": "resources/effects/builtin-2d-spine.effect"
+  },
+  "2874f8dd-416c-4440-81b7-555975426e93": {
+    "asset": 1577454458000,
+    "meta": 1582876292073,
+    "relativePath": "resources/effects/builtin-2d-sprite.effect"
+  },
+  "c0040c95-c57f-49cd-9cbc-12316b73d0d4": {
+    "asset": 1577454458000,
+    "meta": 1582876292080,
+    "relativePath": "resources/effects/builtin-clear-stencil.effect"
+  },
+  "79eafaef-b7ef-45d9-9c3f-591dc836fc7a": {
+    "asset": 1577454458000,
+    "meta": 1582876292099,
+    "relativePath": "resources/effects/builtin-unlit-transparent.effect"
+  },
+  "6d91e591-4ce0-465c-809f-610ec95019c6": {
+    "asset": 1577454458000,
+    "meta": 1582876292115,
+    "relativePath": "resources/effects/builtin-unlit.effect"
+  },
+  "bbee2217-c261-49bd-a8ce-708d6bcc3500": {
+    "asset": 1577454458000,
+    "meta": 1577454458000,
+    "relativePath": "resources/materials"
+  },
+  "6f801092-0c37-4f30-89ef-c8d960825b36": {
+    "asset": 1577454458000,
+    "meta": 1582876292120,
+    "relativePath": "resources/materials/builtin-2d-base.mtl"
+  },
+  "3a7bb79f-32fd-422e-ada2-96f518fed422": {
+    "asset": 1577454458000,
+    "meta": 1582876292121,
+    "relativePath": "resources/materials/builtin-2d-gray-sprite.mtl"
+  },
+  "7afd064b-113f-480e-b793-8817d19f63c3": {
+    "asset": 1577454458000,
+    "meta": 1582876292122,
+    "relativePath": "resources/materials/builtin-2d-spine.mtl"
+  },
+  "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432": {
+    "asset": 1577454458000,
+    "meta": 1582876292123,
+    "relativePath": "resources/materials/builtin-2d-sprite.mtl"
+  },
+  "cf7e0bb8-a81c-44a9-ad79-d28d43991032": {
+    "asset": 1577454458000,
+    "meta": 1582876292124,
+    "relativePath": "resources/materials/builtin-clear-stencil.mtl"
+  },
+  "2a296057-247c-4a1c-bbeb-0548b6c98650": {
+    "asset": 1577454458000,
+    "meta": 1582876292125,
+    "relativePath": "resources/materials/builtin-unlit.mtl"
+  },
+  "954fec8b-cd16-4bb9-a3b7-7719660e7558": {
+    "asset": 1577454458000,
+    "meta": 1582876293949,
+    "relativePath": "model/primitives.fbx"
+  },
+  "bf56d31c-3c67-46ec-abee-6f925ed7d2c9": {
+    "asset": 1582703678691,
+    "meta": 1582703698886,
+    "relativePath": "resources"
+  },
+  "a4766af5-a793-4a5d-b6a0-67e420f53fe2": {
+    "asset": 1582873297804,
+    "meta": 1582525829482,
+    "relativePath": "resources/config"
+  },
+  "660ea11f-8b60-423e-9c34-8112614bed6c": {
+    "asset": 1582525829482,
+    "meta": 1582876294126,
+    "relativePath": "resources/config/bgColorData.json"
+  },
+  "4f742a63-7502-4146-8817-dcc6c6b8a8ac": {
+    "asset": 1582525829483,
+    "meta": 1582876294126,
+    "relativePath": "resources/config/enemyAttrData.json"
+  },
+  "2c4ebc9a-9094-497a-bab2-5b396eab6d4b": {
+    "asset": 1582889298378,
+    "meta": 1582628679629,
+    "relativePath": "resources/effects"
+  },
+  "27ba878d-864d-4da9-af68-440f8839514b": {
+    "asset": 1582702851199,
+    "meta": 1582876294137,
+    "relativePath": "resources/effects/oldPhoto.effect"
+  },
+  "a6d39848-a2f8-40ff-ad40-c3e069d848e9": {
+    "asset": 1582525829489,
+    "meta": 1582876294137,
+    "relativePath": "resources/config/upStarNeedData.json"
+  },
+  "d5f34acd-affb-4832-92b2-161e0c86cf24": {
+    "asset": 1582876338020,
+    "meta": 1582525829489,
+    "relativePath": "resources/fonts"
+  },
+  "9127cabf-7048-4096-9441-84525744b0d1": {
+    "asset": 1582525829489,
+    "meta": 1582876296709,
+    "relativePath": "resources/fonts/bm_attack.fnt"
+  },
+  "20706cff-4d72-4255-9c37-145e276bb2cb": {
+    "asset": 1582525829490,
+    "meta": 1582876296709,
+    "relativePath": "resources/fonts/bm_font.fnt"
+  },
+  "032f38cc-2e56-4f9b-8e92-0ab2171ac519": {
+    "asset": 1582525829490,
+    "meta": 1582876294168,
+    "relativePath": "resources/fonts/bm_attack.png"
+  },
+  "9eb70c7c-b999-4f2d-9d4e-5dc370b30d43": {
+    "asset": 1582525829491,
+    "meta": 1582876294176,
+    "relativePath": "resources/fonts/bm_font.png"
+  },
+  "00a05039-226e-4c98-928c-94fd0a5869e8": {
+    "asset": 1582525829489,
+    "meta": 1582876294177,
+    "relativePath": "resources/fonts/Montserrat-Bold.ttf"
+  },
+  "486e49f6-5ee6-4f84-b57f-9afcaa4aeee1": {
+    "asset": 1582890752311,
+    "meta": 1582628717289,
+    "relativePath": "resources/materials"
+  },
+  "78ce645f-f2a1-483c-8898-126fe40f5caa": {
+    "asset": 1582702867919,
+    "meta": 1582876294180,
+    "relativePath": "resources/materials/oldPhoto.mtl"
+  },
+  "6d53840c-3c75-4d2f-a677-5d86b2fa6f51": {
+    "asset": 1582873314702,
+    "meta": 1582525829493,
+    "relativePath": "resources/prefabs"
+  },
+  "4924df14-e942-4e80-9514-c3ecc646bbe4": {
+    "asset": 1582525829495,
+    "meta": 1582525829493,
+    "relativePath": "resources/prefabs/common"
+  },
+  "09bd876e-eb3f-4e1a-90e0-26fe5b224b8a": {
+    "asset": 1582702051772,
+    "meta": 1582876294183,
+    "relativePath": "resources/prefabs/common/Alert.prefab"
+  },
+  "ff29da35-2819-486a-afee-465522ac2d28": {
+    "asset": 1582702051774,
+    "meta": 1582876294185,
+    "relativePath": "resources/prefabs/common/Button.prefab"
+  },
+  "d1eb62be-5ba7-4a12-be1a-702da19b3224": {
+    "asset": 1582702051776,
+    "meta": 1582876294186,
+    "relativePath": "resources/prefabs/common/ProgressBar.prefab"
+  },
+  "80af4620-454b-4e87-8ac8-61f14686048c": {
+    "asset": 1582702051779,
+    "meta": 1582876294189,
+    "relativePath": "resources/prefabs/common/Switch.prefab"
+  },
+  "929bd6bd-86ad-4f43-b0b4-df3f61b0e66f": {
+    "asset": 1582702051777,
+    "meta": 1582876294190,
+    "relativePath": "resources/prefabs/common/ProgressCircle.prefab"
+  },
+  "55398a08-cd53-4064-a316-abc95c24f776": {
+    "asset": 1582525829497,
+    "meta": 1582525829495,
+    "relativePath": "resources/prefabs/pop"
+  },
+  "b958f685-e8cf-41c2-801e-29d680e4c0cd": {
+    "asset": 1582702051780,
+    "meta": 1582876294192,
+    "relativePath": "resources/prefabs/common/Tip.prefab"
+  },
+  "96fa29c9-53b1-44ef-9344-f0f7b660e8ea": {
+    "asset": 1582702051788,
+    "meta": 1582876294193,
+    "relativePath": "resources/prefabs/pop/SettingPop.prefab"
+  },
+  "d3e5fd97-356d-4d52-b432-aa62b3f3e1d9": {
+    "asset": 1582874791530,
+    "meta": 1582876294196,
+    "relativePath": "resources/prefabs/pop/DebugPop.prefab"
+  },
+  "2608510c-996a-4b08-a631-aa7cd3c12918": {
+    "asset": 1582702051790,
+    "meta": 1582876294197,
+    "relativePath": "resources/prefabs/pop/TempPop.prefab"
+  },
+  "53244e79-9070-4251-a177-5f695b0f900f": {
+    "asset": 1582525829503,
+    "meta": 1582525829498,
+    "relativePath": "resources/sounds"
+  },
+  "be8f6bf7-80ba-4eb4-9bbe-627d6fde6f77": {
+    "asset": 1582525829502,
+    "meta": 1582525829498,
+    "relativePath": "resources/sounds/bgm"
+  },
+  "4fe62764-5579-406c-9d35-5f612d7c0da9": {
+    "asset": 1582702051793,
+    "meta": 1582876294200,
+    "relativePath": "resources/prefabs/pop/UpdatePanel.prefab"
+  },
+  "7582b4aa-9b2e-4775-aa98-316d7fc61c9b": {
+    "asset": 1582525829503,
+    "meta": 1582525829503,
+    "relativePath": "resources/sounds/effect"
+  },
+  "27ed8057-8b2c-42d1-a341-d685c719c9ca": {
+    "asset": 1582525829503,
+    "meta": 1582876294202,
+    "relativePath": "resources/sounds/effect/common_click.mp3"
+  },
+  "b307f91b-87cf-42b0-97c6-441486e88623": {
+    "asset": 1582873336591,
+    "meta": 1582525829503,
+    "relativePath": "resources/spine"
+  },
+  "f7984743-64bf-4d44-801c-dad240b66b60": {
+    "asset": 1582525829506,
+    "meta": 1582525829506,
+    "relativePath": "resources/textures"
+  },
+  "c2b9f022-8bd9-481a-9527-e45279f2a445": {
+    "asset": 1582525829508,
+    "meta": 1582525829506,
+    "relativePath": "resources/textures/common"
+  },
+  "5967bce0-adee-426c-980e-dc9fd98c78df": {
+    "asset": 1582525829507,
+    "meta": 1582525829506,
+    "relativePath": "resources/textures/common/guide"
+  },
+  "57c40f61-ee16-412a-b1ef-f8deeb731c41": {
+    "asset": 1582525829502,
+    "meta": 1582876294206,
+    "relativePath": "resources/sounds/bgm/main.mp3"
+  },
+  "5a11f690-1278-4388-a34d-69f756b3e880": {
+    "asset": 1582525829506,
+    "meta": 1582876294209,
+    "relativePath": "resources/textures/common/guide/arrow.png"
+  },
+  "9e9994b6-4a7b-43cb-aab1-2c50a65d6470": {
+    "asset": 1582525829507,
+    "meta": 1582876294214,
+    "relativePath": "resources/textures/common/guide/guide_mask.png"
+  },
+  "a8b061df-0f25-4539-b649-f194fe654438": {
+    "asset": 1582525829507,
+    "meta": 1582876294216,
+    "relativePath": "resources/textures/common/guide/circle_mask.png"
+  },
+  "8f6ca050-9459-45bd-b2a8-22740be1be6f": {
+    "asset": 1582525829507,
+    "meta": 1582876294220,
+    "relativePath": "resources/textures/common/mask.png"
+  },
+  "ade713d6-159e-4490-baf8-1e87e69c0763": {
+    "asset": 1582793603121,
+    "meta": 1582620776029,
+    "relativePath": "resources/tilemaps"
+  },
+  "a057b300-7891-46b5-bc3d-946e4129cd91": {
+    "asset": 1582525829507,
+    "meta": 1582876294221,
+    "relativePath": "resources/textures/common/red_dot.png"
+  },
+  "515e00ed-2f3e-4937-93a1-056fb1d0580b": {
+    "asset": 1582793603151,
+    "meta": 1582793603121,
+    "relativePath": "resources/tilemaps/map"
+  },
+  "6baf1831-b09f-4f78-8a4f-ca55162db373": {
+    "asset": 1582793603132,
+    "meta": 1582793603122,
+    "relativePath": "resources/tilemaps/map/building"
+  },
+  "4b88e753-3e0d-4171-afc2-77ea6c09749e": {
+    "asset": 1582793305636,
+    "meta": 1582876296718,
+    "relativePath": "resources/tilemaps/kingdom2nd.tmx"
+  },
+  "1df05333-3ff7-47d8-864a-a7eba8299648": {
+    "asset": 1582793191745,
+    "meta": 1582876294247,
+    "relativePath": "resources/tilemaps/map/building/博物馆.png"
+  },
+  "417e686b-89ef-4180-a927-14acaf7c70f2": {
+    "asset": 1582792689118,
+    "meta": 1582876294253,
+    "relativePath": "resources/tilemaps/map/building/8f3da0bf0ea08ac997763af72d3d9d9.png"
+  },
+  "2d1f9222-29a6-4ab8-9112-df0d46e79455": {
+    "asset": 1582792623353,
+    "meta": 1582876294266,
+    "relativePath": "resources/tilemaps/map/building/蛋糕店.png"
+  },
+  "e00a2354-548b-4515-9b0b-26efafde969e": {
+    "asset": 1582792623370,
+    "meta": 1582876294284,
+    "relativePath": "resources/tilemaps/map/building/动物园.png"
+  },
+  "21612971-9316-47f1-b251-57f0aa59029b": {
+    "asset": 1582792623378,
+    "meta": 1582876294296,
+    "relativePath": "resources/tilemaps/map/building/服装店.png"
+  },
+  "28fd05f8-8a1d-47d7-86e9-6ff835633ecf": {
+    "asset": 1582792689187,
+    "meta": 1582876294300,
+    "relativePath": "resources/tilemaps/map/building/城堡4.png"
+  },
+  "10c62d57-1ad5-4242-9127-a9860cb14870": {
+    "asset": 1582792623594,
+    "meta": 1582876294313,
+    "relativePath": "resources/tilemaps/map/building/果汁店.png"
+  },
+  "c61726fb-9ad0-4eb3-94fb-9487af3803ab": {
+    "asset": 1582792689130,
+    "meta": 1582876294330,
+    "relativePath": "resources/tilemaps/map/building/服装店2.png"
+  },
+  "ed3e7d19-14b7-4408-b23c-797949139f77": {
+    "asset": 1582792623579,
+    "meta": 1582876294331,
+    "relativePath": "resources/tilemaps/map/building/活动中心.png"
+  },
+  "0992de87-8ff0-4be9-a9fa-ebc2fad4f76e": {
+    "asset": 1582792623560,
+    "meta": 1582876294347,
+    "relativePath": "resources/tilemaps/map/building/伙伴家园.png"
+  },
+  "e55d6cd9-3655-48ca-9050-5afa5e4326ae": {
+    "asset": 1582792623541,
+    "meta": 1582876294348,
+    "relativePath": "resources/tilemaps/map/building/加油站.png"
+  },
+  "c4f36c24-a5ac-474c-9783-a6775c2d3982": {
+    "asset": 1582792623434,
+    "meta": 1582876294362,
+    "relativePath": "resources/tilemaps/map/building/建筑基地.png"
+  },
+  "89a6c820-ad47-44d0-8d90-7651ad3c2711": {
+    "asset": 1582792623443,
+    "meta": 1582876294366,
+    "relativePath": "resources/tilemaps/map/building/科学研究院.png"
+  },
+  "342e3f1b-72fa-41c0-912b-8dd7c9aee743": {
+    "asset": 1582792623507,
+    "meta": 1582876294376,
+    "relativePath": "resources/tilemaps/map/building/面包店.png"
+  },
+  "c63a079a-3a10-4c5e-ab9f-3ef4de5d96f7": {
+    "asset": 1582792623515,
+    "meta": 1582876294378,
+    "relativePath": "resources/tilemaps/map/building/披萨店.png"
+  },
+  "02ff8309-87e1-48c4-a4ce-3711f2f63a03": {
+    "asset": 1582792623433,
+    "meta": 1582876294398,
+    "relativePath": "resources/tilemaps/map/building/热气球起落站.png"
+  },
+  "d621e7f7-d614-4dcd-a6ad-79cce6398a7c": {
+    "asset": 1582793191747,
+    "meta": 1582876294404,
+    "relativePath": "resources/tilemaps/map/building/气象台旁灯塔.png"
+  },
+  "2aa6c2d4-c39d-429a-995d-19e106ee6269": {
+    "asset": 1582792623481,
+    "meta": 1582876294411,
+    "relativePath": "resources/tilemaps/map/building/糖果店.png"
+  },
+  "f759d6ff-37bc-4ba4-bb52-89ece82ad236": {
+    "asset": 1582792623530,
+    "meta": 1582876294416,
+    "relativePath": "resources/tilemaps/map/building/玩具城.png"
+  },
+  "77783c60-af7a-4746-9ec5-5b5b9301d179": {
+    "asset": 1582792623494,
+    "meta": 1582876294424,
+    "relativePath": "resources/tilemaps/map/building/玩具城2级.png"
+  },
+  "bdb76cc8-e74a-4652-8063-de5f4beee342": {
+    "asset": 1582792623502,
+    "meta": 1582876294429,
+    "relativePath": "resources/tilemaps/map/building/玩具城3级.png"
+  },
+  "a4a66700-ba91-45b4-8db3-f519658f7181": {
+    "asset": 1582792623454,
+    "meta": 1582876294440,
+    "relativePath": "resources/tilemaps/map/building/我的家.png"
+  },
+  "9f51e87d-e129-4766-a18d-5d277b045b35": {
+    "asset": 1582792623584,
+    "meta": 1582876294443,
+    "relativePath": "resources/tilemaps/map/building/消防局.png"
+  },
+  "63db03ab-c224-4890-9727-557b7ea56417": {
+    "asset": 1582792623570,
+    "meta": 1582876294466,
+    "relativePath": "resources/tilemaps/map/building/学习商城.png"
+  },
+  "003ef94f-fc1e-42f4-893f-de2bb63eedf1": {
+    "asset": 1582793191736,
+    "meta": 1582876294467,
+    "relativePath": "resources/tilemaps/map/building/小公园.png"
+  },
+  "191ab93f-33ae-4ec7-9730-0c3c3698f14b": {
+    "asset": 1582793191726,
+    "meta": 1582876294478,
+    "relativePath": "resources/tilemaps/map/building/学校旁国旗.png"
+  },
+  "5d7f5707-5667-4d66-82da-7ceeea2a8da9": {
+    "asset": 1582792623560,
+    "meta": 1582876294486,
+    "relativePath": "resources/tilemaps/map/building/学校.png"
+  },
+  "869737dd-7294-4895-b3fb-945cf3fe4869": {
+    "asset": 1582792623463,
+    "meta": 1582876294492,
+    "relativePath": "resources/tilemaps/map/building/音乐厅.png"
+  },
+  "48d5e9c1-8307-499b-b0c2-43bb521e7736": {
+    "asset": 1582792623470,
+    "meta": 1582876294502,
+    "relativePath": "resources/tilemaps/map/building/邮局.png"
+  },
+  "d30cfa33-19be-42c5-bcc6-d27c2c907557": {
+    "asset": 1582792623416,
+    "meta": 1582876294507,
+    "relativePath": "resources/tilemaps/map/building/邮局2级.png"
+  },
+  "964bd8df-2f7d-45f9-952c-62a90335faf8": {
+    "asset": 1582793191738,
+    "meta": 1582876294514,
+    "relativePath": "resources/tilemaps/map/building/有机草莓圆.png"
+  },
+  "a41fd164-eff9-448a-9324-1465a242d0cc": {
+    "asset": 1582793191743,
+    "meta": 1582876294524,
+    "relativePath": "resources/tilemaps/map/building/有机苹果园.png"
+  },
+  "a854e898-443f-49f4-9015-4dbeb81a4b5d": {
+    "asset": 1582792623404,
+    "meta": 1582876294525,
+    "relativePath": "resources/tilemaps/map/building/中心建筑.png"
+  },
+  "42208de7-80b4-4823-8ce4-0506784d2c9b": {
+    "asset": 1582792623396,
+    "meta": 1582876294540,
+    "relativePath": "resources/tilemaps/map/building/住宅区二.png"
+  },
+  "0db4d4f6-d02c-4682-8d99-1d59b0faccfe": {
+    "asset": 1582792623394,
+    "meta": 1582876294542,
+    "relativePath": "resources/tilemaps/map/building/住宅区二2级.png"
+  },
+  "366bc72c-36ea-4371-a78b-6f5649693355": {
+    "asset": 1582793603133,
+    "meta": 1582793603132,
+    "relativePath": "resources/tilemaps/map/builds"
+  },
+  "ed9947b4-ffb2-4313-8561-d0baf00a581a": {
+    "asset": 1582792623370,
+    "meta": 1582876294555,
+    "relativePath": "resources/tilemaps/map/building/住宅区一.png"
+  },
+  "1d7a6dcf-86c3-4106-866f-62c42a40cdd9": {
+    "asset": 1582615462953,
+    "meta": 1582876294556,
+    "relativePath": "resources/tilemaps/map/builds/8f3da0bf0ea08ac997763af72d3d9d9.png"
+  },
+  "fd30183f-520b-42d6-a4fc-e50c4aa96f97": {
+    "asset": 1582615488918,
+    "meta": 1582876294577,
+    "relativePath": "resources/tilemaps/map/builds/服装店2.png"
+  },
+  "891f5c5d-7742-4dc0-89f4-d1d65ad77762": {
+    "asset": 1582615459295,
+    "meta": 1582876294580,
+    "relativePath": "resources/tilemaps/map/builds/城堡4.png"
+  },
+  "390d30ba-8e68-4502-acef-b434293b1bf4": {
+    "asset": 1582793603139,
+    "meta": 1582793603134,
+    "relativePath": "resources/tilemaps/map/edge"
+  },
+  "11cce14f-a406-4912-94ec-7a22cb1a2daf": {
+    "asset": 1582622552900,
+    "meta": 1582876294588,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 37.png"
+  },
+  "770b7799-2724-4b94-845d-b674654e5c9e": {
+    "asset": 1582622552902,
+    "meta": 1582876294595,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 38.png"
+  },
+  "450bf3b6-1006-4c51-be90-89a0e74a6abb": {
+    "asset": 1582622552903,
+    "meta": 1582876294605,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 39.png"
+  },
+  "4c9ae116-93c4-4963-a702-d9bc372b1a1b": {
+    "asset": 1582614008024,
+    "meta": 1582876294605,
+    "relativePath": "resources/tilemaps/map/builds/蒙版组 28.png"
+  },
+  "8345eb9d-53aa-41ba-8b34-9a482e924373": {
+    "asset": 1582622552903,
+    "meta": 1582876294612,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 40.png"
+  },
+  "4d43db23-43a3-4f0c-abbc-301475fe8369": {
+    "asset": 1582622552903,
+    "meta": 1582876294614,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 41.png"
+  },
+  "44bbcb5a-b333-4ded-a26a-49b777694f25": {
+    "asset": 1582622552897,
+    "meta": 1582876294622,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 42.png"
+  },
+  "24db4215-8444-421e-9621-10ce305c682b": {
+    "asset": 1582622552897,
+    "meta": 1582876294624,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 43.png"
+  },
+  "cd27253a-920c-4f43-a33f-f2f7987b6172": {
+    "asset": 1582623008307,
+    "meta": 1582876294632,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 45.png"
+  },
+  "08da3c2a-b9d8-4858-9de9-5eee72a01226": {
+    "asset": 1582622552897,
+    "meta": 1582876294633,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 44.png"
+  },
+  "15751aac-61df-4fe1-aa99-6dc2e3e90c6e": {
+    "asset": 1582623008286,
+    "meta": 1582876294642,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 47.png"
+  },
+  "a28c6857-69da-4f17-821f-f779aec961b4": {
+    "asset": 1582623008303,
+    "meta": 1582876294642,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 46.png"
+  },
+  "760488ca-f3cb-4c16-946b-27f02adf6505": {
+    "asset": 1582623008312,
+    "meta": 1582876294649,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 48.png"
+  },
+  "1d3fb394-0523-46ea-b3fa-e8d46bd5e64b": {
+    "asset": 1582623008302,
+    "meta": 1582876294650,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 49.png"
+  },
+  "cf716ed5-209e-4779-bf1a-7cf403ac0e15": {
+    "asset": 1582623008312,
+    "meta": 1582876294659,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 51.png"
+  },
+  "3fa14148-1171-4e7f-9bdd-6ea95e338dde": {
+    "asset": 1582623008295,
+    "meta": 1582876294660,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 50.png"
+  },
+  "4c5d475f-6cd3-4174-abfe-92cd801eacb9": {
+    "asset": 1582793603141,
+    "meta": 1582793603140,
+    "relativePath": "resources/tilemaps/map/ground"
+  },
+  "21e08f4e-55e7-4091-b3c9-7f2d0210d411": {
+    "asset": 1582616887038,
+    "meta": 1582876294671,
+    "relativePath": "resources/tilemaps/map/ground/gound.png"
+  },
+  "0fbe7459-b6b3-4887-b771-191932991d92": {
+    "asset": 1582623008313,
+    "meta": 1582876294671,
+    "relativePath": "resources/tilemaps/map/edge/蒙版组 52.png"
+  },
+  "a354c97b-5db6-40a6-86fe-e5e6be4dd0e5": {
+    "asset": 1582623046742,
+    "meta": 1582876294679,
+    "relativePath": "resources/tilemaps/map/ground/sand.png"
+  },
+  "6ddd30e7-923e-49d8-a281-e11beccac74f": {
+    "asset": 1582633084123,
+    "meta": 1582876294681,
+    "relativePath": "resources/tilemaps/map/ground/grass.png"
+  },
+  "c07b0037-a20e-4c90-955e-b97fb9c06ea1": {
+    "asset": 1582793603151,
+    "meta": 1582793603141,
+    "relativePath": "resources/tilemaps/map/misc"
+  },
+  "0418176e-9bb7-40cb-bdfd-3f4f21e286fa": {
+    "asset": 1582633091008,
+    "meta": 1582876294688,
+    "relativePath": "resources/tilemaps/map/ground/sea.png"
+  },
+  "36e36adc-278a-460a-a212-8df391657b71": {
+    "asset": 1582792366259,
+    "meta": 1582876294693,
+    "relativePath": "resources/tilemaps/map/misc/博物馆.png"
+  },
+  "f293fbcb-f5a5-409e-a5f4-daa0820df438": {
+    "asset": 1582792366302,
+    "meta": 1582876294698,
+    "relativePath": "resources/tilemaps/map/misc/蛋糕店.png"
+  },
+  "9ccf3e92-041a-47a1-9822-651e58f55d74": {
+    "asset": 1582792366278,
+    "meta": 1582876294705,
+    "relativePath": "resources/tilemaps/map/misc/动物园.png"
+  },
+  "1caa2797-6db4-455b-ba95-c6b02f9cc2e7": {
+    "asset": 1582792366310,
+    "meta": 1582876294707,
+    "relativePath": "resources/tilemaps/map/misc/服装店.png"
+  },
+  "c17ed39b-35ec-4f25-a639-e24e1672e9a9": {
+    "asset": 1582792057431,
+    "meta": 1582876294715,
+    "relativePath": "resources/tilemaps/map/misc/红树1.png"
+  },
+  "ef744d4d-3a03-4b79-9af6-f1e1b4dbf4bc": {
+    "asset": 1582792366503,
+    "meta": 1582876294716,
+    "relativePath": "resources/tilemaps/map/misc/果汁店.png"
+  },
+  "1b334dcf-ad9f-49cb-b542-ae5c51db5631": {
+    "asset": 1582792037225,
+    "meta": 1582876294722,
+    "relativePath": "resources/tilemaps/map/misc/灰圆石头.png"
+  },
+  "24ad5757-7a16-4129-b567-96599977260c": {
+    "asset": 1582792366493,
+    "meta": 1582876294728,
+    "relativePath": "resources/tilemaps/map/misc/活动中心.png"
+  },
+  "268afed9-c492-4baa-854b-df7c3043f452": {
+    "asset": 1582792366488,
+    "meta": 1582876294733,
+    "relativePath": "resources/tilemaps/map/misc/伙伴家园.png"
+  },
+  "321bbd29-012b-4c04-97ab-2859389d0f1e": {
+    "asset": 1582792366478,
+    "meta": 1582876294739,
+    "relativePath": "resources/tilemaps/map/misc/加油站.png"
+  },
+  "c0fb2999-8eed-437d-8702-dccf9a4fcb3b": {
+    "asset": 1582792366463,
+    "meta": 1582876294744,
+    "relativePath": "resources/tilemaps/map/misc/建筑基地.png"
+  },
+  "b5a292cf-daa7-47b6-a360-235e104e7099": {
+    "asset": 1582792003686,
+    "meta": 1582876294749,
+    "relativePath": "resources/tilemaps/map/misc/绿灌木.png"
+  },
+  "4b98b5ea-73df-4214-bd46-f16489daae23": {
+    "asset": 1582792366456,
+    "meta": 1582876294752,
+    "relativePath": "resources/tilemaps/map/misc/科学研究院.png"
+  },
+  "28e86fd7-bfb8-4325-a6da-57db61bb4cc4": {
+    "asset": 1582791999905,
+    "meta": 1582876294755,
+    "relativePath": "resources/tilemaps/map/misc/绿树2.png"
+  },
+  "8124e312-cdbc-41dd-9d54-9402c4fbd725": {
+    "asset": 1582792366441,
+    "meta": 1582876294762,
+    "relativePath": "resources/tilemaps/map/misc/面包店.png"
+  },
+  "83cbece3-5a39-46e2-8154-e76fab4a7b02": {
+    "asset": 1582792366435,
+    "meta": 1582876294764,
+    "relativePath": "resources/tilemaps/map/misc/披萨店.png"
+  },
+  "54a34edd-8e5a-4e80-8f05-f51d4f25afd5": {
+    "asset": 1582792366410,
+    "meta": 1582876294774,
+    "relativePath": "resources/tilemaps/map/misc/糖果店.png"
+  },
+  "820e2f18-4146-42ba-935d-3b49232467cf": {
+    "asset": 1582792366432,
+    "meta": 1582876294776,
+    "relativePath": "resources/tilemaps/map/misc/热气球起落站.png"
+  },
+  "15af7301-d6d8-4243-89ca-08ebcca42a62": {
+    "asset": 1582792366391,
+    "meta": 1582876294785,
+    "relativePath": "resources/tilemaps/map/misc/玩具城.png"
+  },
+  "0f22d4a9-2fb1-45a4-af43-d1f0c4e49793": {
+    "asset": 1582792366404,
+    "meta": 1582876294786,
+    "relativePath": "resources/tilemaps/map/misc/玩具城2级.png"
+  },
+  "2b7751c9-1283-49a5-b64f-375730f93306": {
+    "asset": 1582792366369,
+    "meta": 1582876294795,
+    "relativePath": "resources/tilemaps/map/misc/玩具城3级.png"
+  },
+  "593cd879-26ff-4499-b473-877b2a17fc4d": {
+    "asset": 1582792366384,
+    "meta": 1582876294797,
+    "relativePath": "resources/tilemaps/map/misc/我的家.png"
+  },
+  "a945d8c0-05a9-4730-9b4e-d2e06bcbda53": {
+    "asset": 1582792139410,
+    "meta": 1582876294804,
+    "relativePath": "resources/tilemaps/map/misc/小水池.png"
+  },
+  "8de70818-1c44-4e65-994e-f419572cea54": {
+    "asset": 1582792366365,
+    "meta": 1582876294807,
+    "relativePath": "resources/tilemaps/map/misc/消防局.png"
+  },
+  "5130862e-8709-45f9-aa12-f252db8ac85f": {
+    "asset": 1582792366345,
+    "meta": 1582876294815,
+    "relativePath": "resources/tilemaps/map/misc/学习商城.png"
+  },
+  "15a5256f-1e63-452e-992a-63c88b5ba1cd": {
+    "asset": 1582792366364,
+    "meta": 1582876294820,
+    "relativePath": "resources/tilemaps/map/misc/学校.png"
+  },
+  "fb6130e1-31af-4762-92e9-f7d670ff6923": {
+    "asset": 1582792366320,
+    "meta": 1582876294826,
+    "relativePath": "resources/tilemaps/map/misc/音乐厅.png"
+  },
+  "c3ce735e-5bf0-4b0d-b5e9-c90f1230e79f": {
+    "asset": 1582792366332,
+    "meta": 1582876294831,
+    "relativePath": "resources/tilemaps/map/misc/邮局.png"
+  },
+  "6d5521c7-3fd6-4378-aa46-bac065a772f1": {
+    "asset": 1582792366340,
+    "meta": 1582876294838,
+    "relativePath": "resources/tilemaps/map/misc/邮局2级.png"
+  },
+  "6e820e92-1590-463d-97f2-740ff70dc4a1": {
+    "asset": 1582792366277,
+    "meta": 1582876294840,
+    "relativePath": "resources/tilemaps/map/misc/中心建筑.png"
+  },
+  "4e7f7734-a684-4bd8-b286-b846a1a6b459": {
+    "asset": 1582792366289,
+    "meta": 1582876294850,
+    "relativePath": "resources/tilemaps/map/misc/住宅区二.png"
+  },
+  "8c8288fe-da7c-4aed-82bd-a9f9d1642835": {
+    "asset": 1582792366254,
+    "meta": 1582876294851,
+    "relativePath": "resources/tilemaps/map/misc/住宅区二2级.png"
+  },
+  "8a61d3c1-d8fe-4d4f-8547-768ccb0ca714": {
+    "asset": 1582793603162,
+    "meta": 1582793603151,
+    "relativePath": "resources/tilemaps/map/roads"
+  },
+  "ebfe12af-95d6-4922-b253-a5ebb992549c": {
+    "asset": 1582631939922,
+    "meta": 1582876294859,
+    "relativePath": "resources/tilemaps/map/roads/123.png"
+  },
+  "abc1feba-404a-4b2f-944c-39e713897c73": {
+    "asset": 1582792366294,
+    "meta": 1582876294861,
+    "relativePath": "resources/tilemaps/map/misc/住宅区一.png"
+  },
+  "6f3d6761-9158-4af5-b093-fc3285bdd40a": {
+    "asset": 1582791040414,
+    "meta": 1582876294868,
+    "relativePath": "resources/tilemaps/map/roads/1234.png"
+  },
+  "8220ec5b-e7b8-4dc3-9fc5-cf01bbd62239": {
+    "asset": 1582617438042,
+    "meta": 1582876294869,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 29.png"
+  },
+  "02bb9e9b-07ee-4f93-a57e-0da8e50e6d7b": {
+    "asset": 1582617438042,
+    "meta": 1582876294877,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 30.png"
+  },
+  "1c15adb5-b3e8-4dee-9ae8-fbd18aa87047": {
+    "asset": 1582617438042,
+    "meta": 1582876294878,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 31.png"
+  },
+  "af7d4099-cee7-4eca-9a2c-7eceebaef9d3": {
+    "asset": 1582617438047,
+    "meta": 1582876294885,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 32.png"
+  },
+  "e14164e4-6a77-4679-b9a6-76bd72ec9dda": {
+    "asset": 1582617438052,
+    "meta": 1582876294886,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 33.png"
+  },
+  "de5d90d1-22e7-4f0d-8004-b8dbbc329e2d": {
+    "asset": 1582617438042,
+    "meta": 1582876294893,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 34.png"
+  },
+  "12b1ef35-dc7f-4646-bceb-d6c684aeaba3": {
+    "asset": 1582617438052,
+    "meta": 1582876294894,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 35.png"
+  },
+  "15c10860-8274-4502-b899-cfc5141ab36c": {
+    "asset": 1582625090085,
+    "meta": 1582876294902,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 58.png"
+  },
+  "0cab3a35-9efc-4cf3-a71f-293d7388708e": {
+    "asset": 1582617438052,
+    "meta": 1582876294904,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 36.png"
+  },
+  "d37dffb6-16d4-40d0-a4d9-afe1307a189d": {
+    "asset": 1582625090086,
+    "meta": 1582876294911,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 59.png"
+  },
+  "57fce245-11a6-4afe-a884-e721245ebd14": {
+    "asset": 1582625090079,
+    "meta": 1582876294912,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 60.png"
+  },
+  "327039a2-b1e5-4393-97ba-9c1d629242f0": {
+    "asset": 1582625090075,
+    "meta": 1582876294920,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 62.png"
+  },
+  "ad184fc5-6769-4302-b683-0c809d968dfc": {
+    "asset": 1582625090085,
+    "meta": 1582876294921,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 61.png"
+  },
+  "43944a1f-fa7b-447a-881e-c8c0c9a5d263": {
+    "asset": 1582625090079,
+    "meta": 1582876294929,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 64.png"
+  },
+  "c4369366-9d7e-44d7-abad-d61a4c4325ab": {
+    "asset": 1582625090073,
+    "meta": 1582876294930,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 63.png"
+  },
+  "95375412-a864-4afc-843b-aba180a1375c": {
+    "asset": 1582625739799,
+    "meta": 1582876294937,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 66.png"
+  },
+  "8b7028d6-31fe-478b-8717-f2e899d7372b": {
+    "asset": 1582625090081,
+    "meta": 1582876294939,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 65.png"
+  },
+  "b04bae61-c0d8-4a8f-9af2-21c3811d18f1": {
+    "asset": 1582790895765,
+    "meta": 1582876294947,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 68.png"
+  },
+  "35988f2e-6329-476e-a0d7-a35d297f7016": {
+    "asset": 1582625739795,
+    "meta": 1582876294948,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 67.png"
+  },
+  "0baf3f4e-b268-4cc2-9705-72ac6ac1b706": {
+    "asset": 1582613213197,
+    "meta": 1582876294956,
+    "relativePath": "resources/tilemaps/map/roads/组 5298.png"
+  },
+  "a08c427f-cf7b-4177-ba97-8bb11bc16eb2": {
+    "asset": 1582791010524,
+    "meta": 1582876294957,
+    "relativePath": "resources/tilemaps/map/roads/蒙版组 69.png"
+  },
+  "d166e89f-555d-4f97-a534-9fba97f24c80": {
+    "asset": 1582613213197,
+    "meta": 1582876294965,
+    "relativePath": "resources/tilemaps/map/roads/组 5301.png"
+  },
+  "ff444f2e-5e9f-4f85-bc30-3e7df7ba73f9": {
+    "asset": 1582613213215,
+    "meta": 1582876294966,
+    "relativePath": "resources/tilemaps/map/roads/组 5304.png"
+  },
+  "9c91a4f4-78e0-4cb3-9724-f34d37af2685": {
+    "asset": 1582613213214,
+    "meta": 1582876294971,
+    "relativePath": "resources/tilemaps/map/roads/组 5307.png"
+  },
+  "6b765a4b-9f82-41e3-b701-354bbbbf023e": {
+    "asset": 1582613213221,
+    "meta": 1582876294973,
+    "relativePath": "resources/tilemaps/map/roads/组 5310.png"
+  },
+  "13f8587e-80ff-4aff-bf1a-dd55a0bc99bb": {
+    "asset": 1582613213150,
+    "meta": 1582876294980,
+    "relativePath": "resources/tilemaps/map/roads/组 5425.png"
+  },
+  "e3edaa8e-0bc0-4bfe-9a1d-3cfda116bb9b": {
+    "asset": 1582613213222,
+    "meta": 1582876294981,
+    "relativePath": "resources/tilemaps/map/roads/组 5339.png"
+  },
+  "4364b295-10ec-43cc-9e5f-0e69c79d90c4": {
+    "asset": 1582613213223,
+    "meta": 1582876294987,
+    "relativePath": "resources/tilemaps/map/roads/组 5428.png"
+  },
+  "2c7c2038-dbc8-4124-881f-c1dcf51a03da": {
+    "asset": 1582613213154,
+    "meta": 1582876294988,
+    "relativePath": "resources/tilemaps/map/roads/组 5458.png"
+  },
+  "76fa0c14-5097-4e37-a92f-d46f3f7c7ee1": {
+    "asset": 1582613213208,
+    "meta": 1582876294995,
+    "relativePath": "resources/tilemaps/map/roads/组 5460.png"
+  },
+  "fa3c509a-2b98-47f6-b2b1-9c8e3935d063": {
+    "asset": 1582613213197,
+    "meta": 1582876294996,
+    "relativePath": "resources/tilemaps/map/roads/组 5459.png"
+  },
+  "7c269067-d26c-42a9-bc95-153da9b5c754": {
+    "asset": 1582613213178,
+    "meta": 1582876295002,
+    "relativePath": "resources/tilemaps/map/roads/组 5462.png"
+  },
+  "3cae2893-38c0-4415-8835-59647168a895": {
+    "asset": 1582613213194,
+    "meta": 1582876295003,
+    "relativePath": "resources/tilemaps/map/roads/组 5461.png"
+  },
+  "47998763-b257-457e-a636-24a1365dfadb": {
+    "asset": 1582613213158,
+    "meta": 1582876295010,
+    "relativePath": "resources/tilemaps/map/roads/组 5464.png"
+  },
+  "b76efe97-f2fe-4f7f-9ceb-d1c88406b265": {
+    "asset": 1582613213192,
+    "meta": 1582876295011,
+    "relativePath": "resources/tilemaps/map/roads/组 5463.png"
+  },
+  "e8cebb53-396e-4aa8-9452-e0a48f68d318": {
+    "asset": 1582613213150,
+    "meta": 1582876295018,
+    "relativePath": "resources/tilemaps/map/roads/组 5465.png"
+  },
+  "b0b88b0a-5539-47d0-803d-f126d62322f1": {
+    "asset": 1582613213156,
+    "meta": 1582876295019,
+    "relativePath": "resources/tilemaps/map/roads/组 5466.png"
+  },
+  "c59d312b-da29-4426-9c03-0e59a97646d2": {
+    "asset": 1582613213153,
+    "meta": 1582876295026,
+    "relativePath": "resources/tilemaps/map/roads/组 5467.png"
+  },
+  "9e5612c3-9dd0-4003-91e1-ad14c4a1a104": {
+    "asset": 1582613213153,
+    "meta": 1582876295027,
+    "relativePath": "resources/tilemaps/map/roads/组 5468.png"
+  },
+  "50067323-40e9-4a52-8309-850ddd97a15d": {
+    "asset": 1583117636041,
+    "meta": 1582703698974,
+    "relativePath": "scenes"
+  },
+  "18e47191-67ae-4708-951a-3b6f43cfc0f2": {
+    "asset": 1582875773981,
+    "meta": 1582876295033,
+    "relativePath": "scenes/TestScene.fire"
+  },
+  "3e92adff-bf35-41dd-9e21-0aa1e4793c64": {
+    "asset": 1582613213150,
+    "meta": 1582876295034,
+    "relativePath": "resources/tilemaps/map/roads/组 5469.png"
+  },
+  "5b465356-2f2a-48aa-91ca-5cd1ccc53152": {
+    "asset": 1582871294143,
+    "meta": 1582703698996,
+    "relativePath": "scripts"
+  },
+  "753fed2b-1b27-487c-aace-f333700892ae": {
+    "asset": 1582870679339,
+    "meta": 1582876295128,
+    "relativePath": "scripts/ClientConfig.js"
+  },
+  "8eea185c-fe4e-44d5-b947-0ed1708a472b": {
+    "asset": 1582704380412,
+    "meta": 1582876295130,
+    "relativePath": "scenes/UpdateScene.fire"
+  },
+  "ee63b76f-1196-4e40-9c37-cda95685c44a": {
+    "asset": 1582870230455,
+    "meta": 1582525829509,
+    "relativePath": "scripts/data"
+  },
+  "73fc865f-cbe4-4bd0-8633-f470ff846c80": {
+    "asset": 1582525829509,
+    "meta": 1582876295178,
+    "relativePath": "scripts/data/BgColorData.js"
+  },
+  "146382bd-c55d-4c83-8774-1f05bb866244": {
+    "asset": 1582870091902,
+    "meta": 1582876295183,
+    "relativePath": "scripts/data/ConstData.js"
+  },
+  "4bc8d92a-1d30-4c71-a1e2-d55279cd4cc8": {
+    "asset": 1582525829509,
+    "meta": 1582876295241,
+    "relativePath": "scripts/data/DataBase.js"
+  },
+  "93505d9a-9d7a-4d36-b9f0-d6e794908fc9": {
+    "asset": 1582870887536,
+    "meta": 1582876295250,
+    "relativePath": "scripts/data/DataMng.js"
+  },
+  "13c2ac92-b5bd-4ec4-ac38-de042c173f6e": {
+    "asset": 1582525829510,
+    "meta": 1582876295266,
+    "relativePath": "scripts/data/EnemyAttrData.js"
+  },
+  "88221b1f-cbb7-429f-ba68-e059442e82a9": {
+    "asset": 1582525829512,
+    "meta": 1582876295291,
+    "relativePath": "scripts/data/UpStarNeedData.js"
+  },
+  "b860a3ef-7c8e-42e1-b7f1-f8584a12b955": {
+    "asset": 1582525829524,
+    "meta": 1582525829512,
+    "relativePath": "scripts/framework"
+  },
+  "7336d1da-674c-4290-9304-f82791feaf62": {
+    "asset": 1582525829512,
+    "meta": 1582876295297,
+    "relativePath": "scripts/data/UserData.js"
+  },
+  "4986fc53-c535-4840-bd79-bc974567b30c": {
+    "asset": 1582525829516,
+    "meta": 1582525829512,
+    "relativePath": "scripts/framework/common"
+  },
+  "9f8e8ebc-acd0-4a13-b93c-8684ba468012": {
+    "asset": 1582874989327,
+    "meta": 1582876295361,
+    "relativePath": "scripts/framework/common/Alert.js"
+  },
+  "bc4261ff-b208-4109-9f2c-78c92edef739": {
+    "asset": 1582525829513,
+    "meta": 1582876295368,
+    "relativePath": "scripts/framework/common/Audio.js"
+  },
+  "8e42ea2e-f82d-4d9d-af93-e3864abca453": {
+    "asset": 1582525829513,
+    "meta": 1582876295431,
+    "relativePath": "scripts/framework/common/ButtonSafe.js"
+  },
+  "b403648e-0fd9-4c10-ad24-15d8153ea81e": {
+    "asset": 1582525829514,
+    "meta": 1582876295466,
+    "relativePath": "scripts/framework/common/CornerMng.js"
+  },
+  "aab19074-c8b8-42ec-957e-ac1697d57247": {
+    "asset": 1582525829514,
+    "meta": 1582876295493,
+    "relativePath": "scripts/framework/common/CSVParser.js"
+  },
+  "fa52efea-1bad-4a9e-ba36-7d31732699a6": {
+    "asset": 1582525829514,
+    "meta": 1582876295517,
+    "relativePath": "scripts/framework/common/Device.js"
+  },
+  "75884e99-830a-4664-b8ea-3766615f14bc": {
+    "asset": 1582525829515,
+    "meta": 1582876295603,
+    "relativePath": "scripts/framework/common/Guide.js"
+  },
+  "bc14cc3c-c350-43f9-85c4-27cc0e1690f6": {
+    "asset": 1582525829515,
+    "meta": 1582876295618,
+    "relativePath": "scripts/framework/common/ImageLoader.js"
+  },
+  "a0e26822-436e-426e-bc8d-4987e8b8e106": {
+    "asset": 1582525829515,
+    "meta": 1582876295624,
+    "relativePath": "scripts/framework/common/Loading.js"
+  },
+  "4a0d10c3-ddf9-49b4-a31a-434edcf33767": {
+    "asset": 1582875696182,
+    "meta": 1582876295637,
+    "relativePath": "scripts/framework/common/ShaderUtils.js"
+  },
+  "6fc55ad4-acf1-43c4-bc8b-736729abf661": {
+    "asset": 1582525829515,
+    "meta": 1582876295651,
+    "relativePath": "scripts/framework/common/Tip.js"
+  },
+  "4a8ec30a-1d34-4e15-a1c5-6b89f84be555": {
+    "asset": 1582525829516,
+    "meta": 1582876295684,
+    "relativePath": "scripts/framework/common/Turning.js"
+  },
+  "3d0d8a55-0559-4c7a-b92b-766e28805744": {
+    "asset": 1582525829516,
+    "meta": 1582876295766,
+    "relativePath": "scripts/framework/common/UI.js"
+  },
+  "4174ef80-ace8-400c-afb9-8b31a735ea17": {
+    "asset": 1582525829517,
+    "meta": 1582525829516,
+    "relativePath": "scripts/framework/encrypt"
+  },
+  "f2c59d72-ffe1-40fa-a8b9-4be4e458619f": {
+    "asset": 1582525829516,
+    "meta": 1582876295823,
+    "relativePath": "scripts/framework/common/UtilsOther.js"
+  },
+  "d18cc553-3d29-4f29-ab1d-f9db46698b12": {
+    "asset": 1582525829517,
+    "meta": 1582876295881,
+    "relativePath": "scripts/framework/encrypt/Algo.js"
+  },
+  "d01c6653-3bf5-439b-8e6b-c6771b2693d0": {
+    "asset": 1582525829517,
+    "meta": 1582876295933,
+    "relativePath": "scripts/framework/encrypt/Encrypt.js"
+  },
+  "00ceee8a-636e-42cd-888f-906858d5c91d": {
+    "asset": 1582525829519,
+    "meta": 1582525829517,
+    "relativePath": "scripts/framework/i18n"
+  },
+  "df955dda-d11b-4535-9fe6-7f751ea11a7d": {
+    "asset": 1582525829517,
+    "meta": 1582876295935,
+    "relativePath": "scripts/framework/encrypt/Md5.js"
+  },
+  "abb8c9a2-1d88-49f2-8941-6baffad943d8": {
+    "asset": 1582525829518,
+    "meta": 1582525829518,
+    "relativePath": "scripts/framework/i18n/data"
+  },
+  "920c554b-cc9c-4a8d-8080-a08530507ca6": {
+    "asset": 1582525829518,
+    "meta": 1582876295944,
+    "relativePath": "scripts/framework/i18n/data/en.js"
+  },
+  "87f1fb34-8288-470c-87cd-83869e3d76ed": {
+    "asset": 1582525829518,
+    "meta": 1582876295950,
+    "relativePath": "scripts/framework/i18n/data/zh.js"
+  },
+  "937890bf-b21b-482f-a7a7-b58b193e379e": {
+    "asset": 1582525829518,
+    "meta": 1582876295979,
+    "relativePath": "scripts/framework/i18n/i18n.js"
+  },
+  "69dec4a0-a519-44d6-bcc4-2a9d11cc6dd5": {
+    "asset": 1582525829518,
+    "meta": 1582876295980,
+    "relativePath": "scripts/framework/i18n/polyglot.js"
+  },
+  "97e9defd-aa04-4a7b-a82c-4c8dd35d0d97": {
+    "asset": 1582525829519,
+    "meta": 1582525829519,
+    "relativePath": "scripts/framework/net"
+  },
+  "8afc19b9-d58a-41fd-833f-98891d81e3be": {
+    "asset": 1582525829519,
+    "meta": 1582876296017,
+    "relativePath": "scripts/framework/net/GameHttp.js"
+  },
+  "ae20cc0a-b707-4131-9b58-e887ba6626d9": {
+    "asset": 1582870871766,
+    "meta": 1582876296017,
+    "relativePath": "scripts/framework/net/HttpProxy.js"
+  },
+  "b1379ddf-0b5c-4618-a74d-5f2e4d6a999e": {
+    "asset": 1582525829520,
+    "meta": 1582525829519,
+    "relativePath": "scripts/framework/net/socket"
+  },
+  "6d3b9d05-d65b-4f42-a117-5f3d0bf05131": {
+    "asset": 1582525829519,
+    "meta": 1582876296067,
+    "relativePath": "scripts/framework/net/socket/GameNetwork.js"
+  },
+  "ee9afc87-49e2-4669-a84e-b0e7bb339159": {
+    "asset": 1582525829520,
+    "meta": 1582876296079,
+    "relativePath": "scripts/framework/net/socket/GameProtocols.js"
+  },
+  "7ba25bc2-cc3c-4718-ad4b-ff653cdd0c7f": {
+    "asset": 1582525829520,
+    "meta": 1582876296109,
+    "relativePath": "scripts/framework/net/socket/GameWebSocket.js"
+  },
+  "5c22d7b0-0312-44f9-a470-00f32411f949": {
+    "asset": 1582525829520,
+    "meta": 1582876296109,
+    "relativePath": "scripts/framework/net/socket/NetProxy.js"
+  },
+  "f076bfe4-ed0d-456b-b2df-56d123fc2f91": {
+    "asset": 1582873379928,
+    "meta": 1582525829520,
+    "relativePath": "scripts/framework/platform"
+  },
+  "68c65b82-fd0e-49fe-aac0-89b6277f3322": {
+    "asset": 1582525829521,
+    "meta": 1582876296127,
+    "relativePath": "scripts/framework/platform/AdHelper.js"
+  },
+  "25e69019-d3fc-431f-b302-2e3172341c6e": {
+    "asset": 1582525829521,
+    "meta": 1582876296131,
+    "relativePath": "scripts/framework/platform/AFLogger.js"
+  },
+  "dce775a5-fda8-4146-b7fb-565d1687677f": {
+    "asset": 1582525829521,
+    "meta": 1582876296139,
+    "relativePath": "scripts/framework/platform/FBLogger.js"
+  },
+  "6635f09d-a3ad-4823-a3bb-1d46a2a47b24": {
+    "asset": 1582525829522,
+    "meta": 1582876296149,
+    "relativePath": "scripts/framework/platform/LoggerHelper.js"
+  },
+  "a863a553-97ad-4495-b0d0-9df5fa716755": {
+    "asset": 1582525829522,
+    "meta": 1582876296162,
+    "relativePath": "scripts/framework/platform/OpenAdsHelper.js"
+  },
+  "b6bf9d65-6e9a-4ac8-9bf2-e907fb4d7e8f": {
+    "asset": 1582525829522,
+    "meta": 1582876296166,
+    "relativePath": "scripts/framework/platform/PlatformUtils.js"
+  },
+  "972dddec-a3ac-4141-b29f-c33e5f13e18a": {
+    "asset": 1582525829522,
+    "meta": 1582876296173,
+    "relativePath": "scripts/framework/platform/RangerLogger.js"
+  },
+  "6f7de8e1-7251-4150-b1c0-677438d94703": {
+    "asset": 1582525829522,
+    "meta": 1582876296274,
+    "relativePath": "scripts/framework/platform/TrackingLogger.js"
+  },
+  "1262d39f-bc00-4554-9d44-c1768ec1c421": {
+    "asset": 1582873379926,
+    "meta": 1582876296325,
+    "relativePath": "scripts/framework/platform/UPLTV.js"
+  },
+  "a8defbff-44d0-40a7-bd25-f52269ab2314": {
+    "asset": 1582873379927,
+    "meta": 1582876296334,
+    "relativePath": "scripts/framework/platform/UPLTVAndroid.js"
+  },
+  "41a160e3-24b5-4023-b262-98bd22bb8a3f": {
+    "asset": 1582873379927,
+    "meta": 1582876296354,
+    "relativePath": "scripts/framework/platform/UpltvHelper.js"
+  },
+  "56bf204c-efa4-43de-9312-f7b363c48c07": {
+    "asset": 1582873379927,
+    "meta": 1582876296355,
+    "relativePath": "scripts/framework/platform/UPLTVIos.js"
+  },
+  "819b7396-871c-4491-8d14-58a72f9dbefd": {
+    "asset": 1582874666375,
+    "meta": 1582525829524,
+    "relativePath": "scripts/framework/ui"
+  },
+  "cab9b517-3970-4393-a3a8-fedd9e7ac486": {
+    "asset": 1582876125290,
+    "meta": 1582876296418,
+    "relativePath": "scripts/framework/ui/Button.js"
+  },
+  "64cd4296-0f58-4689-9e2e-52135c64a558": {
+    "asset": 1582525829524,
+    "meta": 1582876296437,
+    "relativePath": "scripts/framework/ui/Label.js"
+  },
+  "f674f38c-052a-4864-b690-4937c9f88ae0": {
+    "asset": 1582525829524,
+    "meta": 1582876296491,
+    "relativePath": "scripts/framework/ui/LabelInteger.js"
+  },
+  "0a6b1cf0-4483-4db9-93fa-295b349572c3": {
+    "asset": 1582525829525,
+    "meta": 1582876296509,
+    "relativePath": "scripts/framework/ui/ListView.js"
+  },
+  "cc30900e-e68a-47f2-be5f-4b32793a550b": {
+    "asset": 1582525829525,
+    "meta": 1582876296519,
+    "relativePath": "scripts/framework/ui/Node.js"
+  },
+  "0214d19d-58fe-40a9-a81a-e9499639dbd2": {
+    "asset": 1582525829525,
+    "meta": 1582876296524,
+    "relativePath": "scripts/framework/ui/PopBase.js"
+  },
+  "7781c82c-3307-4059-9241-f15c3f6135c8": {
+    "asset": 1582525829525,
+    "meta": 1582876296531,
+    "relativePath": "scripts/framework/ui/ProgressBar.js"
+  },
+  "8431325e-5a5f-4928-9037-60c0994db143": {
+    "asset": 1582525829526,
+    "meta": 1582876296539,
+    "relativePath": "scripts/framework/ui/ProgressCircle.js"
+  },
+  "6143cc10-dece-46ab-9409-e0f78e645859": {
+    "asset": 1582525829526,
+    "meta": 1582876296548,
+    "relativePath": "scripts/framework/ui/Sprite.js"
+  },
+  "5c21411c-3eb7-4094-be72-5bad40a99aa1": {
+    "asset": 1582525829526,
+    "meta": 1582876296549,
+    "relativePath": "scripts/framework/ui/SwitchControl.js"
+  },
+  "88e2f4cb-0c02-4266-99bd-992907b79df5": {
+    "asset": 1582525829527,
+    "meta": 1582525829526,
+    "relativePath": "scripts/hotUpdate"
+  },
+  "d989cb38-71d6-45b6-aecf-ae240a13db82": {
+    "asset": 1582704377836,
+    "meta": 1582876296584,
+    "relativePath": "scripts/hotUpdate/HotUpdate.js"
+  },
+  "a0b25c76-4531-4966-86fa-99e2a1ff660d": {
+    "asset": 1582525829527,
+    "meta": 1582876296585,
+    "relativePath": "scripts/hotUpdate/UpdatePanel.js"
+  },
+  "7ba7ecae-8225-48db-ac3f-75757c4abe75": {
+    "asset": 1582881871895,
+    "meta": 1582710371778,
+    "relativePath": "scripts/map"
+  },
+  "670db55c-9474-45f9-84e4-b12776becaac": {
+    "asset": 1582525829508,
+    "meta": 1582876296666,
+    "relativePath": "scripts/NodePoolMng.js"
+  },
+  "339aad9e-4381-476b-a7fb-89ffcdc61e28": {
+    "asset": 1582525829527,
+    "meta": 1582525829527,
+    "relativePath": "scripts/pop"
+  },
+  "cc3707d4-54d8-4441-a60e-4deeec78e932": {
+    "asset": 1582874788855,
+    "meta": 1582876296683,
+    "relativePath": "scripts/pop/DebugPop.js"
+  },
+  "aa366513-e450-4ff7-a9dc-e7163dd11013": {
+    "asset": 1582525829527,
+    "meta": 1582876296683,
+    "relativePath": "scripts/pop/SettingPop.js"
+  },
+  "3b1b6245-f429-4cc6-8ef2-3876a34ef442": {
+    "asset": 1582874851476,
+    "meta": 1582525829527,
+    "relativePath": "scripts/scene"
+  },
+  "a351d80d-8988-4bf8-9eb6-24dca4e87b9c": {
+    "asset": 1582713096492,
+    "meta": 1582876296704,
+    "relativePath": "scripts/scene/MapScene.js"
+  },
+  "38e56422-2625-4848-b704-733aecf79452": {
+    "asset": 1582874879635,
+    "meta": 1582876296705,
+    "relativePath": "scripts/scene/TestScene.js"
+  },
+  "be329027-fed7-476d-b213-1ec636b0e563": {
+    "asset": 1582876373788,
+    "meta": 1582876374874,
+    "relativePath": "scripts/scene/InitScene.js"
+  },
+  "0dcee3c2-012f-466b-8f12-8851a8d5ed53": {
+    "asset": 1582882716492,
+    "meta": 1582882719903,
+    "relativePath": "scripts/map/MapScrollView.js"
+  },
+  "da615b69-ce32-4328-92f0-68c60929ba75": {
+    "asset": 1583117629945,
+    "meta": 1583117695103,
+    "relativePath": "scenes/InitScene.fire"
+  },
+  "dc9571ed-8b24-4202-a37c-21582c6951fe": {
+    "asset": 1583131058243,
+    "meta": 1583131297225,
+    "relativePath": "resources/effects/mosaic.effect"
+  },
+  "7e8deb92-c9da-49ed-8028-624416cd5dd0": {
+    "asset": 1583131058244,
+    "meta": 1583131297226,
+    "relativePath": "resources/materials/mosaicPhoto.mtl"
+  },
+  "a2a55461-c326-477e-8d06-31c1741275b7": {
+    "asset": 1583131058245,
+    "meta": 1583131297324,
+    "relativePath": "scripts/framework/common/Director.js"
+  },
+  "bd3d38c0-e0a6-4e22-b748-4b520db08a58": {
+    "asset": 1583131303720,
+    "meta": 1583131303724,
+    "relativePath": "scenes/MapScene.fire"
+  },
+  "4a9797a2-9bf3-4eb7-b6e6-32a7fdfa8943": {
+    "asset": 1583131058246,
+    "meta": 1583131297420,
+    "relativePath": "scripts/map/MapCtrl.js"
+  }
+}

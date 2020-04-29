@@ -1,0 +1,10 @@
+[
+{"id":"10000","name":"normal1","track":"1","basisMoveSpeed":"100","basisSpiralSpeed":"-1","basisWavelSpeed":"-1","basisAttack":"1","additionMoveSpeed":"0.01","additionSpiralSpeed":"-1","additionWavelSpeed":"-1","additionAttack":"0.5"},
+{"id":"10001","name":"spiral1","track":"2","basisMoveSpeed":"0.8","basisSpiralSpeed":"0.5","basisWavelSpeed":"-1","basisAttack":"1","additionMoveSpeed":"0.01","additionSpiralSpeed":"0.025","additionWavelSpeed":"-1","additionAttack":"0.5"},
+{"id":"10002","name":"raid","track":"1","basisMoveSpeed":"500","basisSpiralSpeed":"-1","basisWavelSpeed":"-1","basisAttack":"1","additionMoveSpeed":"0.01","additionSpiralSpeed":"-1","additionWavelSpeed":"-1","additionAttack":"0.5"},
+{"id":"10003","name":"normal2","track":"1","basisMoveSpeed":"150","basisSpiralSpeed":"-1","basisWavelSpeed":"-1","basisAttack":"2","additionMoveSpeed":"0.01","additionSpiralSpeed":"-1","additionWavelSpeed":"-1","additionAttack":"0.5"},
+{"id":"10004","name":"split","track":"1","basisMoveSpeed":"50","basisSpiralSpeed":"-1","basisWavelSpeed":"-1","basisAttack":"2","additionMoveSpeed":"0.01","additionSpiralSpeed":"-1","additionWavelSpeed":"-1","additionAttack":"0.5"},
+{"id":"10005","name":"spiral2","track":"2","basisMoveSpeed":"1","basisSpiralSpeed":"0.5","basisWavelSpeed":"-1","basisAttack":"2","additionMoveSpeed":"0.01","additionSpiralSpeed":"0.025","additionWavelSpeed":"-1","additionAttack":"0.5"},
+{"id":"10006","name":"snake","track":"3","basisMoveSpeed":"50","basisSpiralSpeed":"-1","basisWavelSpeed":"10","basisAttack":"1","additionMoveSpeed":"0.01","additionSpiralSpeed":"-1","additionWavelSpeed":"0.05","additionAttack":"0.5"},
+{"id":"10007","name":"boss","track":"1","basisMoveSpeed":"20","basisSpiralSpeed":"-1","basisWavelSpeed":"-1","basisAttack":"100","additionMoveSpeed":"0.01","additionSpiralSpeed":"-1","additionWavelSpeed":"-1","additionAttack":"10"}
+]

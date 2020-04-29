@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蒙版组 34",
+    "texture": "de5d90d1-22e7-4f0d-8004-b8dbbc329e2d",
+    "atlas": "",
+    "rect": [
+      0,
+      128,
+      256,
+      128
+    ],
+    "offset": [
+      0,
+      -64
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

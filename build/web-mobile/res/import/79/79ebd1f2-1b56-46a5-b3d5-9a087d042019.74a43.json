@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蒙版组 49",
+    "texture": "1dP7OUBSNG6rP66NRr1eZL",
+    "rect": [
+      0,
+      128,
+      256,
+      128
+    ],
+    "offset": [
+      0,
+      -64
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

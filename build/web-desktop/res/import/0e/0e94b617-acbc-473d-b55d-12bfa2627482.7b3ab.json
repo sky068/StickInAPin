@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "音乐厅",
+    "texture": "86lzfdcpRIlbP7lFzz/khp",
+    "rect": [
+      0,
+      0,
+      643,
+      661
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      643,
+      661
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

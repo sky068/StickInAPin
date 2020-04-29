@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "科学研究院",
+    "texture": "89a6c820-ad47-44d0-8d90-7651ad3c2711",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      640,
+      800
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      640,
+      800
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

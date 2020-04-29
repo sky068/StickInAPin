@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "9f51e87d-e129-4766-a18d-5d277b045b35",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "消防局": {
+      "ver": "1.0.4",
+      "uuid": "6e27d4f5-d5fd-4998-a9ce-b2f4e3b31742",
+      "rawTextureUuid": "9f51e87d-e129-4766-a18d-5d277b045b35",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 640,
+      "height": 633,
+      "rawWidth": 640,
+      "rawHeight": 633,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

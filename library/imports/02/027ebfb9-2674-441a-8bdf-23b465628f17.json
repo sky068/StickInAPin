@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "灰圆石头",
+    "texture": "1b334dcf-ad9f-49cb-b542-ae5c51db5631",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

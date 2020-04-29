@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "城堡4",
+    "texture": "28fd05f8-8a1d-47d7-86e9-6ff835633ecf",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1656,
+      1584
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1656,
+      1584
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

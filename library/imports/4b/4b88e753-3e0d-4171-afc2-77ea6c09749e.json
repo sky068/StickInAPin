@@ -1,0 +1,351 @@
+{
+  "__type__": "cc.TiledMapAsset",
+  "_name": "kingdom2nd",
+  "_objFlags": 0,
+  "_native": "",
+  "tmxXmlStr": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<map version=\"1.2\" tiledversion=\"1.3.2\" orientation=\"hexagonal\" renderorder=\"right-down\" compressionlevel=\"-1\" width=\"50\" height=\"200\" tilewidth=\"256\" tileheight=\"128\" infinite=\"0\" hexsidelength=\"0\" staggeraxis=\"y\" staggerindex=\"odd\" nextlayerid=\"5\" nextobjectid=\"1\">\r\n <tileset firstgid=\"1\" name=\"ground\" tilewidth=\"256\" tileheight=\"256\" tilecount=\"20\" columns=\"0\">\r\n  <grid orientation=\"orthogonal\" width=\"1\" height=\"1\"/>\r\n  <tile id=\"0\">\r\n   <image width=\"256\" height=\"256\" source=\"map/ground/gound.png\"/>\r\n  </tile>\r\n  <tile id=\"1\">\r\n   <image width=\"256\" height=\"256\" source=\"map/ground/grass.png\"/>\r\n  </tile>\r\n  <tile id=\"2\">\r\n   <image width=\"256\" height=\"256\" source=\"map/ground/sand.png\"/>\r\n  </tile>\r\n  <tile id=\"3\">\r\n   <image width=\"256\" height=\"256\" source=\"map/ground/sea.png\"/>\r\n  </tile>\r\n  <tile id=\"4\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 37.png\"/>\r\n  </tile>\r\n  <tile id=\"5\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 38.png\"/>\r\n  </tile>\r\n  <tile id=\"6\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 39.png\"/>\r\n  </tile>\r\n  <tile id=\"7\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 40.png\"/>\r\n  </tile>\r\n  <tile id=\"8\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 41.png\"/>\r\n  </tile>\r\n  <tile id=\"9\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 42.png\"/>\r\n  </tile>\r\n  <tile id=\"10\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 43.png\"/>\r\n  </tile>\r\n  <tile id=\"11\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 44.png\"/>\r\n  </tile>\r\n  <tile id=\"12\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 45.png\"/>\r\n  </tile>\r\n  <tile id=\"13\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 46.png\"/>\r\n  </tile>\r\n  <tile id=\"14\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 47.png\"/>\r\n  </tile>\r\n  <tile id=\"15\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 48.png\"/>\r\n  </tile>\r\n  <tile id=\"16\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 49.png\"/>\r\n  </tile>\r\n  <tile id=\"17\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 50.png\"/>\r\n  </tile>\r\n  <tile id=\"18\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 51.png\"/>\r\n  </tile>\r\n  <tile id=\"19\">\r\n   <image width=\"256\" height=\"256\" source=\"map/edge/蒙版组 52.png\"/>\r\n  </tile>\r\n </tileset>\r\n <tileset firstgid=\"21\" name=\"road\" tilewidth=\"256\" tileheight=\"256\" tilecount=\"22\" columns=\"0\">\r\n  <grid orientation=\"orthogonal\" width=\"1\" height=\"1\"/>\r\n  <tile id=\"0\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/123.png\"/>\r\n  </tile>\r\n  <tile id=\"1\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 29.png\"/>\r\n  </tile>\r\n  <tile id=\"2\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 30.png\"/>\r\n  </tile>\r\n  <tile id=\"3\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 31.png\"/>\r\n  </tile>\r\n  <tile id=\"4\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 32.png\"/>\r\n  </tile>\r\n  <tile id=\"5\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 33.png\"/>\r\n  </tile>\r\n  <tile id=\"6\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 34.png\"/>\r\n  </tile>\r\n  <tile id=\"7\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 35.png\"/>\r\n  </tile>\r\n  <tile id=\"8\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 36.png\"/>\r\n  </tile>\r\n  <tile id=\"9\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 58.png\"/>\r\n  </tile>\r\n  <tile id=\"10\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 59.png\"/>\r\n  </tile>\r\n  <tile id=\"11\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 60.png\"/>\r\n  </tile>\r\n  <tile id=\"12\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 61.png\"/>\r\n  </tile>\r\n  <tile id=\"13\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 62.png\"/>\r\n  </tile>\r\n  <tile id=\"14\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 63.png\"/>\r\n  </tile>\r\n  <tile id=\"15\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 64.png\"/>\r\n  </tile>\r\n  <tile id=\"16\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 65.png\"/>\r\n  </tile>\r\n  <tile id=\"17\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 66.png\"/>\r\n  </tile>\r\n  <tile id=\"18\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 67.png\"/>\r\n  </tile>\r\n  <tile id=\"19\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 68.png\"/>\r\n  </tile>\r\n  <tile id=\"20\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/1234.png\"/>\r\n  </tile>\r\n  <tile id=\"21\">\r\n   <image width=\"256\" height=\"256\" source=\"map/roads/蒙版组 69.png\"/>\r\n  </tile>\r\n </tileset>\r\n <tileset firstgid=\"43\" name=\"misc\" tilewidth=\"605\" tileheight=\"233\" tilecount=\"5\" columns=\"0\">\r\n  <grid orientation=\"orthogonal\" width=\"1\" height=\"1\"/>\r\n  <tile id=\"0\">\r\n   <image width=\"190\" height=\"233\" source=\"map/misc/红树1.png\"/>\r\n  </tile>\r\n  <tile id=\"1\">\r\n   <image width=\"78\" height=\"38\" source=\"map/misc/灰圆石头.png\"/>\r\n  </tile>\r\n  <tile id=\"2\">\r\n   <image width=\"89\" height=\"66\" source=\"map/misc/绿灌木.png\"/>\r\n  </tile>\r\n  <tile id=\"3\">\r\n   <image width=\"78\" height=\"108\" source=\"map/misc/绿树2.png\"/>\r\n  </tile>\r\n  <tile id=\"5\">\r\n   <image width=\"605\" height=\"158\" source=\"map/misc/小水池.png\"/>\r\n  </tile>\r\n </tileset>\r\n <tileset firstgid=\"49\" name=\"building\" tilewidth=\"1656\" tileheight=\"1584\" tilecount=\"37\" columns=\"0\">\r\n  <grid orientation=\"orthogonal\" width=\"1\" height=\"1\"/>\r\n  <tile id=\"88\">\r\n   <image width=\"640\" height=\"687\" source=\"map/building/博物馆.png\"/>\r\n  </tile>\r\n  <tile id=\"89\">\r\n   <image width=\"482\" height=\"628\" source=\"map/building/蛋糕店.png\"/>\r\n  </tile>\r\n  <tile id=\"90\">\r\n   <image width=\"803\" height=\"761\" source=\"map/building/动物园.png\"/>\r\n  </tile>\r\n  <tile id=\"91\">\r\n   <image width=\"481\" height=\"522\" source=\"map/building/服装店.png\"/>\r\n  </tile>\r\n  <tile id=\"92\">\r\n   <image width=\"479\" height=\"582\" source=\"map/building/果汁店.png\"/>\r\n  </tile>\r\n  <tile id=\"93\">\r\n   <image width=\"480\" height=\"737\" source=\"map/building/活动中心.png\"/>\r\n  </tile>\r\n  <tile id=\"94\">\r\n   <image width=\"640\" height=\"587\" source=\"map/building/伙伴家园.png\"/>\r\n  </tile>\r\n  <tile id=\"95\">\r\n   <image width=\"641\" height=\"639\" source=\"map/building/加油站.png\"/>\r\n  </tile>\r\n  <tile id=\"96\">\r\n   <image width=\"640\" height=\"638\" source=\"map/building/建筑基地.png\"/>\r\n  </tile>\r\n  <tile id=\"97\">\r\n   <image width=\"640\" height=\"800\" source=\"map/building/科学研究院.png\"/>\r\n  </tile>\r\n  <tile id=\"98\">\r\n   <image width=\"482\" height=\"540\" source=\"map/building/面包店.png\"/>\r\n  </tile>\r\n  <tile id=\"99\">\r\n   <image width=\"478\" height=\"457\" source=\"map/building/披萨店.png\"/>\r\n  </tile>\r\n  <tile id=\"100\">\r\n   <image width=\"801\" height=\"904\" source=\"map/building/热气球起落站.png\"/>\r\n  </tile>\r\n  <tile id=\"101\">\r\n   <image width=\"482\" height=\"586\" source=\"map/building/糖果店.png\"/>\r\n  </tile>\r\n  <tile id=\"102\">\r\n   <image width=\"480\" height=\"520\" source=\"map/building/玩具城.png\"/>\r\n  </tile>\r\n  <tile id=\"103\">\r\n   <image width=\"480\" height=\"569\" source=\"map/building/玩具城2级.png\"/>\r\n  </tile>\r\n  <tile id=\"104\">\r\n   <image width=\"480\" height=\"599\" source=\"map/building/玩具城3级.png\"/>\r\n  </tile>\r\n  <tile id=\"105\">\r\n   <image width=\"640\" height=\"644\" source=\"map/building/我的家.png\"/>\r\n  </tile>\r\n  <tile id=\"106\">\r\n   <image width=\"640\" height=\"633\" source=\"map/building/消防局.png\"/>\r\n  </tile>\r\n  <tile id=\"107\">\r\n   <image width=\"643\" height=\"660\" source=\"map/building/学习商城.png\"/>\r\n  </tile>\r\n  <tile id=\"108\">\r\n   <image width=\"798\" height=\"868\" source=\"map/building/学校.png\"/>\r\n  </tile>\r\n  <tile id=\"109\">\r\n   <image width=\"643\" height=\"661\" source=\"map/building/音乐厅.png\"/>\r\n  </tile>\r\n  <tile id=\"110\">\r\n   <image width=\"640\" height=\"681\" source=\"map/building/邮局.png\"/>\r\n  </tile>\r\n  <tile id=\"111\">\r\n   <image width=\"640\" height=\"681\" source=\"map/building/邮局2级.png\"/>\r\n  </tile>\r\n  <tile id=\"112\">\r\n   <image width=\"481\" height=\"517\" source=\"map/building/中心建筑.png\"/>\r\n  </tile>\r\n  <tile id=\"113\">\r\n   <image width=\"639\" height=\"626\" source=\"map/building/住宅区二.png\"/>\r\n  </tile>\r\n  <tile id=\"114\">\r\n   <image width=\"640\" height=\"731\" source=\"map/building/住宅区二2级.png\"/>\r\n  </tile>\r\n  <tile id=\"115\">\r\n   <image width=\"642\" height=\"627\" source=\"map/building/住宅区一.png\"/>\r\n  </tile>\r\n  <tile id=\"116\">\r\n   <image width=\"1357\" height=\"851\" source=\"map/building/8f3da0bf0ea08ac997763af72d3d9d9.png\"/>\r\n  </tile>\r\n  <tile id=\"117\">\r\n   <image width=\"1656\" height=\"1584\" source=\"map/building/城堡4.png\"/>\r\n  </tile>\r\n  <tile id=\"118\">\r\n   <image width=\"1259\" height=\"1267\" source=\"map/building/服装店2.png\"/>\r\n  </tile>\r\n  <tile id=\"119\">\r\n   <image width=\"801\" height=\"872\" source=\"map/building/博物馆.png\"/>\r\n  </tile>\r\n  <tile id=\"120\">\r\n   <image width=\"860\" height=\"1422\" source=\"map/building/气象台旁灯塔.png\"/>\r\n  </tile>\r\n  <tile id=\"121\">\r\n   <image width=\"751\" height=\"739\" source=\"map/building/小公园.png\"/>\r\n  </tile>\r\n  <tile id=\"122\">\r\n   <image width=\"268\" height=\"624\" source=\"map/building/学校旁国旗.png\"/>\r\n  </tile>\r\n  <tile id=\"123\">\r\n   <image width=\"811\" height=\"477\" source=\"map/building/有机草莓圆.png\"/>\r\n  </tile>\r\n  <tile id=\"124\">\r\n   <image width=\"806\" height=\"797\" source=\"map/building/有机苹果园.png\"/>\r\n  </tile>\r\n </tileset>\r\n <layer id=\"1\" name=\"ground\" width=\"50\" height=\"200\">\r\n  <data encoding=\"base64\" compression=\"zlib\">\r\n   eJztnMduxDAMRBfbEmx6+f9vjQWEAGGo2ioceQ7vzrdjijJj5Ho6na5A3BfeF84rRtdVysXjgOjBPGzBPGzBPGxxmyCPp4nyuEyQx22SPJ6B83gsvCy8/jug5eGrX7CeR6x2jdU8cusX3gx5lNYufBrJY2v9jq+F34Eee2pP1d/L41FQv6v3x0PKobWHzK0av7dFj/XvvtehpUfIIXTe0KOdR28HepQ7fDR06OkRut9Z9Ig5+O7aiB4oeaQcfHdtRI+WZ1Utj9EO9Mh3aD03enm0PqdqeMi+NUbruVErj5z3JOsesm8dOTdqeOT0Ro+zao+HJYeje1hzOLJHzszo7bA1jxk89Mz4Pm3bYVrw0L0x4nev4WHV4Yge+pzq9U7RKo/ed9gWHvqc6vVO0cJjPcNH173FYz3De71TtMhj9Lyu4aF7w6JDrofluZHrgeCQ46F7HNkDwSHH4z6Jh9X7VKlH7NtGS+T0uMX71JbnCj0P6XHmYcNDehw9Dz3LR9e5x8Py+1+Jh/T5LHlYfP8r8ZA+t363inlIjyM45DxXCHfEmIf0+Oj6auWBcOYyD3swD1swD1swD1swD1uk7uyj69vrgbSDi3mgvM+mPJB2cEfIA2kHF/JA2r/lPlfIeSDt33LzQNjBpfJA2V2l8kDZXYU80O5WIQ85d1F6I+SB1hshD9fnSL0Ry2N0XTU8Qv/zyzKhHh9dV4080M4qn4d7ptDOKp+H+44P7axae8i3iKNrquWBdlZpD/1d6Oia9njod1m0s0p7oHwXmvJAfHcK5YHqoD3c/EOcG9oD9U7lywN1bmgPtL89zZ4H4n7E54G4H/F5oM8O8UDcj4TyGF1HrTyQzyrmYY+Z8nBzEHl2OFD3PD6PGZ4r9PuI9kC/k5wncZjJgxBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQggh9fgDiJpl6A==\r\n  </data>\r\n </layer>\r\n <layer id=\"2\" name=\"road\" width=\"50\" height=\"200\">\r\n  <data encoding=\"base64\" compression=\"zlib\">\r\n   eJzt3Etu3DAQhGH5EHHiJLNPcv8DxrVogCZI6tUUuwv1AVoYCkb6IXsmfNjbJiIiIiIiIiIiIiIiIiIiIiIiV31bfQNO/nwev1ffhIPXxtEBLC0sHXCkJcN7wl7H+875SEYt6PgYnI+k14GG74PzEbXu1Tp65yOq77NsaJ2PrLzXuqM+H5ndZ6uhPJ8B7vXn1u6w8xlafm39BsjS0fueKkVvOdIALB0QteVMA7B0QLSWKw3A0gFRWu40wJGO9xuvf9TdDjgyFpvJowH2xmFvDtcY8eqA0VhsZodnA/TGYW/O16l5d0BrLDazY0YD1OOwjM/ClGOxjM/C2Dgs87MwGItlfhZ2DYZnkf3nwq6hZ3Hs9bM32DWydzA0ANZlf0x8fXiiY/a484kGM7OFoePJBjOjhaFjRYPxbGHoWNlgPFoYOiI0mDstDB2RGsyVFoaOiA3mTAtDR+QGc3QdJmNHuY8vQ4NpzZM/Od/spTVP/sRc8wz1PDmOJ+abvZXz5OWRqcHYPHl5zJ5r8VZ+P5VHhDX+M3odmVpGDUwdGVowb7rXgOPfqhs8Ae+5ex0Z3n/3OjI0mFFLpo7WZ2C2Bui9Z2X6PLeGj+1rQ5bfXzHl/8/Ln5NMv8NSjzFeja8zdsCr8XXklt5472/1ddaOlqgtZ8feLB0QreXqPAhLB0RpuTsnxdIBq1u85gdZOmBVi/dcLUsHPN0ya96cpQOeapm9hsHSASx7B1k6gGXvIEsHsOwdZOkAlr2DLB3AsneQpQNY9g6ydADL3kGWDji7dzDq+tfZjshrYK+d8/V6GEOH/fuoLT299TCGDsjUMnqfZemADC1HPvNYOiByy9V14mh/d/bqWnGkvz17dZ3Y9khn7oByf9jqlqsN9d4wlo6VLZ4NGTtG+4tX7Cm+s38i0v7Pu3soonTc3T8RoWFzuHa9/zOrev9nZvX+z6zq/Z8iIiIiIiIiIiLy1X/w6zTA\r\n  </data>\r\n </layer>\r\n <layer id=\"4\" name=\"misc\" width=\"50\" height=\"200\">\r\n  <data encoding=\"base64\" compression=\"zlib\">\r\n   eJzt1zEOwCAIAED/Y4f+/3XdTZo0sRWkd4uOGARCawAAAAAAAAAAAAAAAADrHdEBAPyU/gvqANhPxb5V8U0AVejRAADA6I09wa7xTB/O1VbmKfOf6C0uB1V8kV95yaPf3Hck/jyiZ+DuMs/VaHoWu1LXAHPO6ACSMVcAAAAAAAAAAAAAAABgzgVhzAUe\r\n  </data>\r\n </layer>\r\n <layer id=\"3\" name=\"building\" width=\"50\" height=\"200\">\r\n  <data encoding=\"base64\" compression=\"zlib\">\r\n   eJzt28FOwkAUhlFe3yhIArhDNKAEhXc0bgxJUxOg7d9hznmAO9/mzmzayQQAAAAAgJoc0gEA/PlKBwC0mKYDAABo2KYDKrRJB3AxewJ1sfPcu0U6gLuy7HjeuuN5lOU1HQDwj9lA5zwNdA7ApebpAIAKjOnburd0AEDlPtMBVOUlHQAAcGafDqjYRzrgBs/pAIAePKQDGKXHdMDI7NIBAFfwxlOq73RAgfyj2r9TOgBGyF7c7r3n+cee59NkLxhaCXvethcltAP8cl8BADSt0gEAAAAAAEBnfgBhQRbi\r\n  </data>\r\n </layer>\r\n</map>\r\n",
+  "textures": [
+    {
+      "__uuid__": "21e08f4e-55e7-4091-b3c9-7f2d0210d411"
+    },
+    {
+      "__uuid__": "6ddd30e7-923e-49d8-a281-e11beccac74f"
+    },
+    {
+      "__uuid__": "a354c97b-5db6-40a6-86fe-e5e6be4dd0e5"
+    },
+    {
+      "__uuid__": "0418176e-9bb7-40cb-bdfd-3f4f21e286fa"
+    },
+    {
+      "__uuid__": "11cce14f-a406-4912-94ec-7a22cb1a2daf"
+    },
+    {
+      "__uuid__": "770b7799-2724-4b94-845d-b674654e5c9e"
+    },
+    {
+      "__uuid__": "450bf3b6-1006-4c51-be90-89a0e74a6abb"
+    },
+    {
+      "__uuid__": "8345eb9d-53aa-41ba-8b34-9a482e924373"
+    },
+    {
+      "__uuid__": "4d43db23-43a3-4f0c-abbc-301475fe8369"
+    },
+    {
+      "__uuid__": "44bbcb5a-b333-4ded-a26a-49b777694f25"
+    },
+    {
+      "__uuid__": "24db4215-8444-421e-9621-10ce305c682b"
+    },
+    {
+      "__uuid__": "08da3c2a-b9d8-4858-9de9-5eee72a01226"
+    },
+    {
+      "__uuid__": "cd27253a-920c-4f43-a33f-f2f7987b6172"
+    },
+    {
+      "__uuid__": "a28c6857-69da-4f17-821f-f779aec961b4"
+    },
+    {
+      "__uuid__": "15751aac-61df-4fe1-aa99-6dc2e3e90c6e"
+    },
+    {
+      "__uuid__": "760488ca-f3cb-4c16-946b-27f02adf6505"
+    },
+    {
+      "__uuid__": "1d3fb394-0523-46ea-b3fa-e8d46bd5e64b"
+    },
+    {
+      "__uuid__": "3fa14148-1171-4e7f-9bdd-6ea95e338dde"
+    },
+    {
+      "__uuid__": "cf716ed5-209e-4779-bf1a-7cf403ac0e15"
+    },
+    {
+      "__uuid__": "0fbe7459-b6b3-4887-b771-191932991d92"
+    },
+    {
+      "__uuid__": "ebfe12af-95d6-4922-b253-a5ebb992549c"
+    },
+    {
+      "__uuid__": "8220ec5b-e7b8-4dc3-9fc5-cf01bbd62239"
+    },
+    {
+      "__uuid__": "02bb9e9b-07ee-4f93-a57e-0da8e50e6d7b"
+    },
+    {
+      "__uuid__": "1c15adb5-b3e8-4dee-9ae8-fbd18aa87047"
+    },
+    {
+      "__uuid__": "af7d4099-cee7-4eca-9a2c-7eceebaef9d3"
+    },
+    {
+      "__uuid__": "e14164e4-6a77-4679-b9a6-76bd72ec9dda"
+    },
+    {
+      "__uuid__": "de5d90d1-22e7-4f0d-8004-b8dbbc329e2d"
+    },
+    {
+      "__uuid__": "12b1ef35-dc7f-4646-bceb-d6c684aeaba3"
+    },
+    {
+      "__uuid__": "0cab3a35-9efc-4cf3-a71f-293d7388708e"
+    },
+    {
+      "__uuid__": "15c10860-8274-4502-b899-cfc5141ab36c"
+    },
+    {
+      "__uuid__": "d37dffb6-16d4-40d0-a4d9-afe1307a189d"
+    },
+    {
+      "__uuid__": "57fce245-11a6-4afe-a884-e721245ebd14"
+    },
+    {
+      "__uuid__": "ad184fc5-6769-4302-b683-0c809d968dfc"
+    },
+    {
+      "__uuid__": "327039a2-b1e5-4393-97ba-9c1d629242f0"
+    },
+    {
+      "__uuid__": "c4369366-9d7e-44d7-abad-d61a4c4325ab"
+    },
+    {
+      "__uuid__": "43944a1f-fa7b-447a-881e-c8c0c9a5d263"
+    },
+    {
+      "__uuid__": "8b7028d6-31fe-478b-8717-f2e899d7372b"
+    },
+    {
+      "__uuid__": "95375412-a864-4afc-843b-aba180a1375c"
+    },
+    {
+      "__uuid__": "35988f2e-6329-476e-a0d7-a35d297f7016"
+    },
+    {
+      "__uuid__": "b04bae61-c0d8-4a8f-9af2-21c3811d18f1"
+    },
+    {
+      "__uuid__": "6f3d6761-9158-4af5-b093-fc3285bdd40a"
+    },
+    {
+      "__uuid__": "a08c427f-cf7b-4177-ba97-8bb11bc16eb2"
+    },
+    {
+      "__uuid__": "c17ed39b-35ec-4f25-a639-e24e1672e9a9"
+    },
+    {
+      "__uuid__": "1b334dcf-ad9f-49cb-b542-ae5c51db5631"
+    },
+    {
+      "__uuid__": "b5a292cf-daa7-47b6-a360-235e104e7099"
+    },
+    {
+      "__uuid__": "28e86fd7-bfb8-4325-a6da-57db61bb4cc4"
+    },
+    {
+      "__uuid__": "a945d8c0-05a9-4730-9b4e-d2e06bcbda53"
+    },
+    {
+      "__uuid__": "1df05333-3ff7-47d8-864a-a7eba8299648"
+    },
+    {
+      "__uuid__": "2d1f9222-29a6-4ab8-9112-df0d46e79455"
+    },
+    {
+      "__uuid__": "e00a2354-548b-4515-9b0b-26efafde969e"
+    },
+    {
+      "__uuid__": "21612971-9316-47f1-b251-57f0aa59029b"
+    },
+    {
+      "__uuid__": "10c62d57-1ad5-4242-9127-a9860cb14870"
+    },
+    {
+      "__uuid__": "ed3e7d19-14b7-4408-b23c-797949139f77"
+    },
+    {
+      "__uuid__": "0992de87-8ff0-4be9-a9fa-ebc2fad4f76e"
+    },
+    {
+      "__uuid__": "e55d6cd9-3655-48ca-9050-5afa5e4326ae"
+    },
+    {
+      "__uuid__": "c4f36c24-a5ac-474c-9783-a6775c2d3982"
+    },
+    {
+      "__uuid__": "89a6c820-ad47-44d0-8d90-7651ad3c2711"
+    },
+    {
+      "__uuid__": "342e3f1b-72fa-41c0-912b-8dd7c9aee743"
+    },
+    {
+      "__uuid__": "c63a079a-3a10-4c5e-ab9f-3ef4de5d96f7"
+    },
+    {
+      "__uuid__": "02ff8309-87e1-48c4-a4ce-3711f2f63a03"
+    },
+    {
+      "__uuid__": "2aa6c2d4-c39d-429a-995d-19e106ee6269"
+    },
+    {
+      "__uuid__": "f759d6ff-37bc-4ba4-bb52-89ece82ad236"
+    },
+    {
+      "__uuid__": "77783c60-af7a-4746-9ec5-5b5b9301d179"
+    },
+    {
+      "__uuid__": "bdb76cc8-e74a-4652-8063-de5f4beee342"
+    },
+    {
+      "__uuid__": "a4a66700-ba91-45b4-8db3-f519658f7181"
+    },
+    {
+      "__uuid__": "9f51e87d-e129-4766-a18d-5d277b045b35"
+    },
+    {
+      "__uuid__": "63db03ab-c224-4890-9727-557b7ea56417"
+    },
+    {
+      "__uuid__": "5d7f5707-5667-4d66-82da-7ceeea2a8da9"
+    },
+    {
+      "__uuid__": "869737dd-7294-4895-b3fb-945cf3fe4869"
+    },
+    {
+      "__uuid__": "48d5e9c1-8307-499b-b0c2-43bb521e7736"
+    },
+    {
+      "__uuid__": "d30cfa33-19be-42c5-bcc6-d27c2c907557"
+    },
+    {
+      "__uuid__": "a854e898-443f-49f4-9015-4dbeb81a4b5d"
+    },
+    {
+      "__uuid__": "42208de7-80b4-4823-8ce4-0506784d2c9b"
+    },
+    {
+      "__uuid__": "0db4d4f6-d02c-4682-8d99-1d59b0faccfe"
+    },
+    {
+      "__uuid__": "ed9947b4-ffb2-4313-8561-d0baf00a581a"
+    },
+    {
+      "__uuid__": "417e686b-89ef-4180-a927-14acaf7c70f2"
+    },
+    {
+      "__uuid__": "28fd05f8-8a1d-47d7-86e9-6ff835633ecf"
+    },
+    {
+      "__uuid__": "c61726fb-9ad0-4eb3-94fb-9487af3803ab"
+    },
+    {
+      "__uuid__": "1df05333-3ff7-47d8-864a-a7eba8299648"
+    },
+    {
+      "__uuid__": "d621e7f7-d614-4dcd-a6ad-79cce6398a7c"
+    },
+    {
+      "__uuid__": "003ef94f-fc1e-42f4-893f-de2bb63eedf1"
+    },
+    {
+      "__uuid__": "191ab93f-33ae-4ec7-9730-0c3c3698f14b"
+    },
+    {
+      "__uuid__": "964bd8df-2f7d-45f9-952c-62a90335faf8"
+    },
+    {
+      "__uuid__": "a41fd164-eff9-448a-9324-1465a242d0cc"
+    }
+  ],
+  "textureNames": [
+    "map/ground/gound.png",
+    "map/ground/grass.png",
+    "map/ground/sand.png",
+    "map/ground/sea.png",
+    "map/edge/蒙版组 37.png",
+    "map/edge/蒙版组 38.png",
+    "map/edge/蒙版组 39.png",
+    "map/edge/蒙版组 40.png",
+    "map/edge/蒙版组 41.png",
+    "map/edge/蒙版组 42.png",
+    "map/edge/蒙版组 43.png",
+    "map/edge/蒙版组 44.png",
+    "map/edge/蒙版组 45.png",
+    "map/edge/蒙版组 46.png",
+    "map/edge/蒙版组 47.png",
+    "map/edge/蒙版组 48.png",
+    "map/edge/蒙版组 49.png",
+    "map/edge/蒙版组 50.png",
+    "map/edge/蒙版组 51.png",
+    "map/edge/蒙版组 52.png",
+    "map/roads/123.png",
+    "map/roads/蒙版组 29.png",
+    "map/roads/蒙版组 30.png",
+    "map/roads/蒙版组 31.png",
+    "map/roads/蒙版组 32.png",
+    "map/roads/蒙版组 33.png",
+    "map/roads/蒙版组 34.png",
+    "map/roads/蒙版组 35.png",
+    "map/roads/蒙版组 36.png",
+    "map/roads/蒙版组 58.png",
+    "map/roads/蒙版组 59.png",
+    "map/roads/蒙版组 60.png",
+    "map/roads/蒙版组 61.png",
+    "map/roads/蒙版组 62.png",
+    "map/roads/蒙版组 63.png",
+    "map/roads/蒙版组 64.png",
+    "map/roads/蒙版组 65.png",
+    "map/roads/蒙版组 66.png",
+    "map/roads/蒙版组 67.png",
+    "map/roads/蒙版组 68.png",
+    "map/roads/1234.png",
+    "map/roads/蒙版组 69.png",
+    "map/misc/红树1.png",
+    "map/misc/灰圆石头.png",
+    "map/misc/绿灌木.png",
+    "map/misc/绿树2.png",
+    "map/misc/小水池.png",
+    "map/building/博物馆.png",
+    "map/building/蛋糕店.png",
+    "map/building/动物园.png",
+    "map/building/服装店.png",
+    "map/building/果汁店.png",
+    "map/building/活动中心.png",
+    "map/building/伙伴家园.png",
+    "map/building/加油站.png",
+    "map/building/建筑基地.png",
+    "map/building/科学研究院.png",
+    "map/building/面包店.png",
+    "map/building/披萨店.png",
+    "map/building/热气球起落站.png",
+    "map/building/糖果店.png",
+    "map/building/玩具城.png",
+    "map/building/玩具城2级.png",
+    "map/building/玩具城3级.png",
+    "map/building/我的家.png",
+    "map/building/消防局.png",
+    "map/building/学习商城.png",
+    "map/building/学校.png",
+    "map/building/音乐厅.png",
+    "map/building/邮局.png",
+    "map/building/邮局2级.png",
+    "map/building/中心建筑.png",
+    "map/building/住宅区二.png",
+    "map/building/住宅区二2级.png",
+    "map/building/住宅区一.png",
+    "map/building/8f3da0bf0ea08ac997763af72d3d9d9.png",
+    "map/building/城堡4.png",
+    "map/building/服装店2.png",
+    "map/building/博物馆.png",
+    "map/building/气象台旁灯塔.png",
+    "map/building/小公园.png",
+    "map/building/学校旁国旗.png",
+    "map/building/有机草莓圆.png",
+    "map/building/有机苹果园.png"
+  ],
+  "imageLayerTextures": [],
+  "imageLayerTextureNames": [],
+  "tsxFiles": [],
+  "tsxFileNames": []
+}

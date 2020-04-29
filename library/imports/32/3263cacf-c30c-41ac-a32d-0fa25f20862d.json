@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蒙版组 63",
+    "texture": "c4369366-9d7e-44d7-abad-d61a4c4325ab",
+    "atlas": "",
+    "rect": [
+      0,
+      128,
+      256,
+      128
+    ],
+    "offset": [
+      0,
+      -64
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "加油站",
+    "texture": "e55d6cd9-3655-48ca-9050-5afa5e4326ae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      641,
+      639
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      641,
+      639
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

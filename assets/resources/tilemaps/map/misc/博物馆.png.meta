@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "36e36adc-278a-460a-a212-8df391657b71",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "博物馆": {
+      "ver": "1.0.4",
+      "uuid": "5c086cc1-05b3-4aa7-8ed7-b3d2013bc433",
+      "rawTextureUuid": "36e36adc-278a-460a-a212-8df391657b71",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 367,
+      "height": 395,
+      "rawWidth": 367,
+      "rawHeight": 395,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

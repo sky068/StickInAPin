@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "面包店",
+    "texture": "8124e312-cdbc-41dd-9d54-9402c4fbd725",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      276,
+      309
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      276,
+      309
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

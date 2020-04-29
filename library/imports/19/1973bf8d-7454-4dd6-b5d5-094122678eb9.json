@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "我的家",
+    "texture": "a4a66700-ba91-45b4-8db3-f519658f7181",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      640,
+      644
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      640,
+      644
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

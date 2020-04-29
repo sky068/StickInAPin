@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "活动中心",
+    "texture": "24rVdXehZBKbVnllmZdyYM",
+    "rect": [
+      0,
+      0,
+      271,
+      423
+    ],
+    "offset": [
+      -2.5,
+      0
+    ],
+    "originalSize": [
+      276,
+      423
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

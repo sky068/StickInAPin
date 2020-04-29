@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "学校",
+    "texture": "15pSVvHmNFLpkqY8iLW6HN",
+    "rect": [
+      0,
+      0,
+      458,
+      499
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      458,
+      499
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

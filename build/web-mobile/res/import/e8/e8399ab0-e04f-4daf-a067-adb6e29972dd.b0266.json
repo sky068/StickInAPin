@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "学校旁国旗",
+    "texture": "19Grk/M65Ox5cwDDw2mPFL",
+    "rect": [
+      0,
+      0,
+      268,
+      624
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      268,
+      624
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

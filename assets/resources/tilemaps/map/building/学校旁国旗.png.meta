@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "191ab93f-33ae-4ec7-9730-0c3c3698f14b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "学校旁国旗": {
+      "ver": "1.0.4",
+      "uuid": "e8399ab0-e04f-4daf-a067-adb6e29972dd",
+      "rawTextureUuid": "191ab93f-33ae-4ec7-9730-0c3c3698f14b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 268,
+      "height": 624,
+      "rawWidth": 268,
+      "rawHeight": 624,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

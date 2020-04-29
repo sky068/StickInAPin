@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "绿树2",
+    "texture": "28e86fd7-bfb8-4325-a6da-57db61bb4cc4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      78,
+      108
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      78,
+      108
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

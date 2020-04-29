@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "玩具城",
+    "texture": "15r3MB1thCQ4nKCOvMpCpi",
+    "rect": [
+      0,
+      0,
+      276,
+      298
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      276,
+      298
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

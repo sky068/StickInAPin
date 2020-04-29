@@ -1,0 +1,46 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "upStarNeedData",
+  "json": [
+    {
+      "level": "1",
+      "evolutionMaxExp": "30"
+    },
+    {
+      "level": "2",
+      "evolutionMaxExp": "615"
+    },
+    {
+      "level": "3",
+      "evolutionMaxExp": "3544"
+    },
+    {
+      "level": "4",
+      "evolutionMaxExp": "14540"
+    },
+    {
+      "level": "5",
+      "evolutionMaxExp": "48150"
+    },
+    {
+      "level": "6",
+      "evolutionMaxExp": "183054"
+    },
+    {
+      "level": "7",
+      "evolutionMaxExp": "764967"
+    },
+    {
+      "level": "8",
+      "evolutionMaxExp": "2787408"
+    },
+    {
+      "level": "9",
+      "evolutionMaxExp": "7792767"
+    },
+    {
+      "level": "10",
+      "evolutionMaxExp": "17447859"
+    }
+  ]
+}

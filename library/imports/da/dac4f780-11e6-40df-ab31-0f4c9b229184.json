@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "博物馆",
+    "texture": "1df05333-3ff7-47d8-864a-a7eba8299648",
+    "atlas": "",
+    "rect": [
+      10,
+      19,
+      791,
+      840
+    ],
+    "offset": [
+      5,
+      -3
+    ],
+    "originalSize": [
+      801,
+      872
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

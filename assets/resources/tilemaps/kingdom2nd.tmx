@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.2" orientation="hexagonal" renderorder="right-down" compressionlevel="-1" width="50" height="200" tilewidth="256" tileheight="128" infinite="0" hexsidelength="0" staggeraxis="y" staggerindex="odd" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" name="ground" tilewidth="256" tileheight="256" tilecount="20" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="256" height="256" source="map/ground/gound.png"/>
+  </tile>
+  <tile id="1">
+   <image width="256" height="256" source="map/ground/grass.png"/>
+  </tile>
+  <tile id="2">
+   <image width="256" height="256" source="map/ground/sand.png"/>
+  </tile>
+  <tile id="3">
+   <image width="256" height="256" source="map/ground/sea.png"/>
+  </tile>
+  <tile id="4">
+   <image width="256" height="256" source="map/edge/蒙版组 37.png"/>
+  </tile>
+  <tile id="5">
+   <image width="256" height="256" source="map/edge/蒙版组 38.png"/>
+  </tile>
+  <tile id="6">
+   <image width="256" height="256" source="map/edge/蒙版组 39.png"/>
+  </tile>
+  <tile id="7">
+   <image width="256" height="256" source="map/edge/蒙版组 40.png"/>
+  </tile>
+  <tile id="8">
+   <image width="256" height="256" source="map/edge/蒙版组 41.png"/>
+  </tile>
+  <tile id="9">
+   <image width="256" height="256" source="map/edge/蒙版组 42.png"/>
+  </tile>
+  <tile id="10">
+   <image width="256" height="256" source="map/edge/蒙版组 43.png"/>
+  </tile>
+  <tile id="11">
+   <image width="256" height="256" source="map/edge/蒙版组 44.png"/>
+  </tile>
+  <tile id="12">
+   <image width="256" height="256" source="map/edge/蒙版组 45.png"/>
+  </tile>
+  <tile id="13">
+   <image width="256" height="256" source="map/edge/蒙版组 46.png"/>
+  </tile>
+  <tile id="14">
+   <image width="256" height="256" source="map/edge/蒙版组 47.png"/>
+  </tile>
+  <tile id="15">
+   <image width="256" height="256" source="map/edge/蒙版组 48.png"/>
+  </tile>
+  <tile id="16">
+   <image width="256" height="256" source="map/edge/蒙版组 49.png"/>
+  </tile>
+  <tile id="17">
+   <image width="256" height="256" source="map/edge/蒙版组 50.png"/>
+  </tile>
+  <tile id="18">
+   <image width="256" height="256" source="map/edge/蒙版组 51.png"/>
+  </tile>
+  <tile id="19">
+   <image width="256" height="256" source="map/edge/蒙版组 52.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="21" name="road" tilewidth="256" tileheight="256" tilecount="22" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="256" height="256" source="map/roads/123.png"/>
+  </tile>
+  <tile id="1">
+   <image width="256" height="256" source="map/roads/蒙版组 29.png"/>
+  </tile>
+  <tile id="2">
+   <image width="256" height="256" source="map/roads/蒙版组 30.png"/>
+  </tile>
+  <tile id="3">
+   <image width="256" height="256" source="map/roads/蒙版组 31.png"/>
+  </tile>
+  <tile id="4">
+   <image width="256" height="256" source="map/roads/蒙版组 32.png"/>
+  </tile>
+  <tile id="5">
+   <image width="256" height="256" source="map/roads/蒙版组 33.png"/>
+  </tile>
+  <tile id="6">
+   <image width="256" height="256" source="map/roads/蒙版组 34.png"/>
+  </tile>
+  <tile id="7">
+   <image width="256" height="256" source="map/roads/蒙版组 35.png"/>
+  </tile>
+  <tile id="8">
+   <image width="256" height="256" source="map/roads/蒙版组 36.png"/>
+  </tile>
+  <tile id="9">
+   <image width="256" height="256" source="map/roads/蒙版组 58.png"/>
+  </tile>
+  <tile id="10">
+   <image width="256" height="256" source="map/roads/蒙版组 59.png"/>
+  </tile>
+  <tile id="11">
+   <image width="256" height="256" source="map/roads/蒙版组 60.png"/>
+  </tile>
+  <tile id="12">
+   <image width="256" height="256" source="map/roads/蒙版组 61.png"/>
+  </tile>
+  <tile id="13">
+   <image width="256" height="256" source="map/roads/蒙版组 62.png"/>
+  </tile>
+  <tile id="14">
+   <image width="256" height="256" source="map/roads/蒙版组 63.png"/>
+  </tile>
+  <tile id="15">
+   <image width="256" height="256" source="map/roads/蒙版组 64.png"/>
+  </tile>
+  <tile id="16">
+   <image width="256" height="256" source="map/roads/蒙版组 65.png"/>
+  </tile>
+  <tile id="17">
+   <image width="256" height="256" source="map/roads/蒙版组 66.png"/>
+  </tile>
+  <tile id="18">
+   <image width="256" height="256" source="map/roads/蒙版组 67.png"/>
+  </tile>
+  <tile id="19">
+   <image width="256" height="256" source="map/roads/蒙版组 68.png"/>
+  </tile>
+  <tile id="20">
+   <image width="256" height="256" source="map/roads/1234.png"/>
+  </tile>
+  <tile id="21">
+   <image width="256" height="256" source="map/roads/蒙版组 69.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="43" name="misc" tilewidth="605" tileheight="233" tilecount="5" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="190" height="233" source="map/misc/红树1.png"/>
+  </tile>
+  <tile id="1">
+   <image width="78" height="38" source="map/misc/灰圆石头.png"/>
+  </tile>
+  <tile id="2">
+   <image width="89" height="66" source="map/misc/绿灌木.png"/>
+  </tile>
+  <tile id="3">
+   <image width="78" height="108" source="map/misc/绿树2.png"/>
+  </tile>
+  <tile id="5">
+   <image width="605" height="158" source="map/misc/小水池.png"/>
+  </tile>
+ </tileset>
+ <tileset firstgid="49" name="building" tilewidth="1656" tileheight="1584" tilecount="37" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="88">
+   <image width="640" height="687" source="map/building/博物馆.png"/>
+  </tile>
+  <tile id="89">
+   <image width="482" height="628" source="map/building/蛋糕店.png"/>
+  </tile>
+  <tile id="90">
+   <image width="803" height="761" source="map/building/动物园.png"/>
+  </tile>
+  <tile id="91">
+   <image width="481" height="522" source="map/building/服装店.png"/>
+  </tile>
+  <tile id="92">
+   <image width="479" height="582" source="map/building/果汁店.png"/>
+  </tile>
+  <tile id="93">
+   <image width="480" height="737" source="map/building/活动中心.png"/>
+  </tile>
+  <tile id="94">
+   <image width="640" height="587" source="map/building/伙伴家园.png"/>
+  </tile>
+  <tile id="95">
+   <image width="641" height="639" source="map/building/加油站.png"/>
+  </tile>
+  <tile id="96">
+   <image width="640" height="638" source="map/building/建筑基地.png"/>
+  </tile>
+  <tile id="97">
+   <image width="640" height="800" source="map/building/科学研究院.png"/>
+  </tile>
+  <tile id="98">
+   <image width="482" height="540" source="map/building/面包店.png"/>
+  </tile>
+  <tile id="99">
+   <image width="478" height="457" source="map/building/披萨店.png"/>
+  </tile>
+  <tile id="100">
+   <image width="801" height="904" source="map/building/热气球起落站.png"/>
+  </tile>
+  <tile id="101">
+   <image width="482" height="586" source="map/building/糖果店.png"/>
+  </tile>
+  <tile id="102">
+   <image width="480" height="520" source="map/building/玩具城.png"/>
+  </tile>
+  <tile id="103">
+   <image width="480" height="569" source="map/building/玩具城2级.png"/>
+  </tile>
+  <tile id="104">
+   <image width="480" height="599" source="map/building/玩具城3级.png"/>
+  </tile>
+  <tile id="105">
+   <image width="640" height="644" source="map/building/我的家.png"/>
+  </tile>
+  <tile id="106">
+   <image width="640" height="633" source="map/building/消防局.png"/>
+  </tile>
+  <tile id="107">
+   <image width="643" height="660" source="map/building/学习商城.png"/>
+  </tile>
+  <tile id="108">
+   <image width="798" height="868" source="map/building/学校.png"/>
+  </tile>
+  <tile id="109">
+   <image width="643" height="661" source="map/building/音乐厅.png"/>
+  </tile>
+  <tile id="110">
+   <image width="640" height="681" source="map/building/邮局.png"/>
+  </tile>
+  <tile id="111">
+   <image width="640" height="681" source="map/building/邮局2级.png"/>
+  </tile>
+  <tile id="112">
+   <image width="481" height="517" source="map/building/中心建筑.png"/>
+  </tile>
+  <tile id="113">
+   <image width="639" height="626" source="map/building/住宅区二.png"/>
+  </tile>
+  <tile id="114">
+   <image width="640" height="731" source="map/building/住宅区二2级.png"/>
+  </tile>
+  <tile id="115">
+   <image width="642" height="627" source="map/building/住宅区一.png"/>
+  </tile>
+  <tile id="116">
+   <image width="1357" height="851" source="map/building/8f3da0bf0ea08ac997763af72d3d9d9.png"/>
+  </tile>
+  <tile id="117">
+   <image width="1656" height="1584" source="map/building/城堡4.png"/>
+  </tile>
+  <tile id="118">
+   <image width="1259" height="1267" source="map/building/服装店2.png"/>
+  </tile>
+  <tile id="119">
+   <image width="801" height="872" source="map/building/博物馆.png"/>
+  </tile>
+  <tile id="120">
+   <image width="860" height="1422" source="map/building/气象台旁灯塔.png"/>
+  </tile>
+  <tile id="121">
+   <image width="751" height="739" source="map/building/小公园.png"/>
+  </tile>
+  <tile id="122">
+   <image width="268" height="624" source="map/building/学校旁国旗.png"/>
+  </tile>
+  <tile id="123">
+   <image width="811" height="477" source="map/building/有机草莓圆.png"/>
+  </tile>
+  <tile id="124">
+   <image width="806" height="797" source="map/building/有机苹果园.png"/>
+  </tile>
+ </tileset>
+ <layer id="1" name="ground" width="50" height="200">
+  <data encoding="base64" compression="zlib">
+   eJztnMduxDAMRBfbEmx6+f9vjQWEAGGo2ioceQ7vzrdjijJj5Ho6na5A3BfeF84rRtdVysXjgOjBPGzBPGzBPGxxmyCPp4nyuEyQx22SPJ6B83gsvCy8/jug5eGrX7CeR6x2jdU8cusX3gx5lNYufBrJY2v9jq+F34Eee2pP1d/L41FQv6v3x0PKobWHzK0av7dFj/XvvtehpUfIIXTe0KOdR28HepQ7fDR06OkRut9Z9Ig5+O7aiB4oeaQcfHdtRI+WZ1Utj9EO9Mh3aD03enm0PqdqeMi+NUbruVErj5z3JOsesm8dOTdqeOT0Ro+zao+HJYeje1hzOLJHzszo7bA1jxk89Mz4Pm3bYVrw0L0x4nev4WHV4Yge+pzq9U7RKo/ed9gWHvqc6vVO0cJjPcNH173FYz3De71TtMhj9Lyu4aF7w6JDrofluZHrgeCQ46F7HNkDwSHH4z6Jh9X7VKlH7NtGS+T0uMX71JbnCj0P6XHmYcNDehw9Dz3LR9e5x8Py+1+Jh/T5LHlYfP8r8ZA+t363inlIjyM45DxXCHfEmIf0+Oj6auWBcOYyD3swD1swD1swD1swD1uk7uyj69vrgbSDi3mgvM+mPJB2cEfIA2kHF/JA2r/lPlfIeSDt33LzQNjBpfJA2V2l8kDZXYU80O5WIQ85d1F6I+SB1hshD9fnSL0Ry2N0XTU8Qv/zyzKhHh9dV4080M4qn4d7ptDOKp+H+44P7axae8i3iKNrquWBdlZpD/1d6Oia9njod1m0s0p7oHwXmvJAfHcK5YHqoD3c/EOcG9oD9U7lywN1bmgPtL89zZ4H4n7E54G4H/F5oM8O8UDcj4TyGF1HrTyQzyrmYY+Z8nBzEHl2OFD3PD6PGZ4r9PuI9kC/k5wncZjJgxBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQggh9fgDiJpl6A==
+  </data>
+ </layer>
+ <layer id="2" name="road" width="50" height="200">
+  <data encoding="base64" compression="zlib">
+   eJzt3Etu3DAQhGH5EHHiJLNPcv8DxrVogCZI6tUUuwv1AVoYCkb6IXsmfNjbJiIiIiIiIiIiIiIiIiIiIiIiV31bfQNO/nwev1ffhIPXxtEBLC0sHXCkJcN7wl7H+875SEYt6PgYnI+k14GG74PzEbXu1Tp65yOq77NsaJ2PrLzXuqM+H5ndZ6uhPJ8B7vXn1u6w8xlafm39BsjS0fueKkVvOdIALB0QteVMA7B0QLSWKw3A0gFRWu40wJGO9xuvf9TdDjgyFpvJowH2xmFvDtcY8eqA0VhsZodnA/TGYW/O16l5d0BrLDazY0YD1OOwjM/ClGOxjM/C2Dgs87MwGItlfhZ2DYZnkf3nwq6hZ3Hs9bM32DWydzA0ANZlf0x8fXiiY/a484kGM7OFoePJBjOjhaFjRYPxbGHoWNlgPFoYOiI0mDstDB2RGsyVFoaOiA3mTAtDR+QGc3QdJmNHuY8vQ4NpzZM/Od/spTVP/sRc8wz1PDmOJ+abvZXz5OWRqcHYPHl5zJ5r8VZ+P5VHhDX+M3odmVpGDUwdGVowb7rXgOPfqhs8Ae+5ex0Z3n/3OjI0mFFLpo7WZ2C2Bui9Z2X6PLeGj+1rQ5bfXzHl/8/Ln5NMv8NSjzFeja8zdsCr8XXklt5472/1ddaOlqgtZ8feLB0QreXqPAhLB0RpuTsnxdIBq1u85gdZOmBVi/dcLUsHPN0ya96cpQOeapm9hsHSASx7B1k6gGXvIEsHsOwdZOkAlr2DLB3AsneQpQNY9g6ydADL3kGWDji7dzDq+tfZjshrYK+d8/V6GEOH/fuoLT299TCGDsjUMnqfZemADC1HPvNYOiByy9V14mh/d/bqWnGkvz17dZ3Y9khn7oByf9jqlqsN9d4wlo6VLZ4NGTtG+4tX7Cm+s38i0v7Pu3soonTc3T8RoWFzuHa9/zOrev9nZvX+z6zq/Z8iIiIiIiIiIiLy1X/w6zTA
+  </data>
+ </layer>
+ <layer id="4" name="misc" width="50" height="200">
+  <data encoding="base64" compression="zlib">
+   eJzt1zEOwCAIAED/Y4f+/3XdTZo0sRWkd4uOGARCawAAAAAAAAAAAAAAAADrHdEBAPyU/gvqANhPxb5V8U0AVejRAADA6I09wa7xTB/O1VbmKfOf6C0uB1V8kV95yaPf3Hck/jyiZ+DuMs/VaHoWu1LXAHPO6ACSMVcAAAAAAAAAAAAAAABgzgVhzAUe
+  </data>
+ </layer>
+ <layer id="3" name="building" width="50" height="200">
+  <data encoding="base64" compression="zlib">
+   eJzt28FOwkAUhlFe3yhIArhDNKAEhXc0bgxJUxOg7d9hznmAO9/mzmzayQQAAAAAgJoc0gEA/PlKBwC0mKYDAABo2KYDKrRJB3AxewJ1sfPcu0U6gLuy7HjeuuN5lOU1HQDwj9lA5zwNdA7ApebpAIAKjOnburd0AEDlPtMBVOUlHQAAcGafDqjYRzrgBs/pAIAePKQDGKXHdMDI7NIBAFfwxlOq73RAgfyj2r9TOgBGyF7c7r3n+cee59NkLxhaCXvethcltAP8cl8BADSt0gEAAAAAAEBnfgBhQRbi
+  </data>
+ </layer>
+</map>

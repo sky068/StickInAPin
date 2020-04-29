@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "服装店2",
+    "texture": "fd30183f-520b-42d6-a4fc-e50c4aa96f97",
+    "atlas": "",
+    "rect": [
+      143,
+      91,
+      405,
+      481
+    ],
+    "offset": [
+      -9,
+      25.5
+    ],
+    "originalSize": [
+      709,
+      714
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

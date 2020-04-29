@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "有机草莓圆",
+    "texture": "964bd8df-2f7d-45f9-952c-62a90335faf8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      811,
+      477
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      811,
+      477
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

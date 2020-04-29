@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蒙版组 28",
+    "texture": "4cmuEWk8RJY6cC2bw3Kxob",
+    "rect": [
+      0,
+      72,
+      1024,
+      696
+    ],
+    "offset": [
+      0,
+      92
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

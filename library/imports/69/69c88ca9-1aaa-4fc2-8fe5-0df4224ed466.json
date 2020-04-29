@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "学习商城",
+    "texture": "5130862e-8709-45f9-aa12-f252db8ac85f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      369,
+      377
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      369,
+      377
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "糖果店",
+    "texture": "54a34edd-8e5a-4e80-8f05-f51d4f25afd5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      276,
+      335
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      276,
+      335
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

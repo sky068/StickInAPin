@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "住宅区二",
+    "texture": "42II3ngLRII4zkBQZ4TSyb",
+    "rect": [
+      0,
+      0,
+      639,
+      626
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      639,
+      626
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

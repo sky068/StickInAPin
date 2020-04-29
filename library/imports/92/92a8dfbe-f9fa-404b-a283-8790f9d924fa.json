@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "热气球起落站",
+    "texture": "02ff8309-87e1-48c4-a4ce-3711f2f63a03",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      801,
+      904
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      801,
+      904
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

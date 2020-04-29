@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "小公园",
+    "texture": "00PvlP/B5C9Ik/3iu2Pu3x",
+    "rect": [
+      8,
+      12,
+      723,
+      727
+    ],
+    "offset": [
+      -6,
+      -6
+    ],
+    "originalSize": [
+      751,
+      739
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

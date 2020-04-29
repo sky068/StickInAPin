@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "我的家",
+    "texture": "59PNh5Jv9EmbRzh3sqF/xN",
+    "rect": [
+      0,
+      0,
+      367,
+      370
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      367,
+      370
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "邮局2级",
+    "texture": "6dVSHHP9ZDeKpGusBlp3Lx",
+    "rect": [
+      0,
+      0,
+      367,
+      391
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      367,
+      391
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "果汁店",
+    "texture": "10c62d57-1ad5-4242-9127-a9860cb14870",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      479,
+      582
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      479,
+      582
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "玩具城2级",
+    "texture": "77783c60-af7a-4746-9ec5-5b5b9301d179",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      480,
+      569
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      480,
+      569
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

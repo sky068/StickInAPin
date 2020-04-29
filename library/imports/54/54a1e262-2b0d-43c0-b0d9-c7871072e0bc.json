@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "消防局",
+    "texture": "8de70818-1c44-4e65-994e-f419572cea54",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      367,
+      363
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      367,
+      363
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

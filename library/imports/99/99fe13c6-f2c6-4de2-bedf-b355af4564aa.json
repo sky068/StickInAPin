@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "住宅区二",
+    "texture": "4e7f7734-a684-4bd8-b286-b846a1a6b459",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      367,
+      359
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      367,
+      359
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

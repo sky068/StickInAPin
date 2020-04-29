@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "小水池",
+    "texture": "a945d8c0-05a9-4730-9b4e-d2e06bcbda53",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      605,
+      158
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      605,
+      158
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

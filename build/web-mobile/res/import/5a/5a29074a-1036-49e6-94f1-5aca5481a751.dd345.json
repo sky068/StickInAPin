@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "中心建筑",
+    "texture": "a8VOiYRD9J9JAVTb64Gktd",
+    "rect": [
+      0,
+      0,
+      481,
+      517
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      481,
+      517
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
