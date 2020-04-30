@@ -4,10 +4,7 @@
  * 数据管理, 配置数据读取, 保存读取本读数据
  */
 
-let UpStarNeedData = require("./UpStarNeedData");
-let EnemyAttrData = require("./EnemyAttrData");
-let BgColorData = require("./BgColorData");
-
+let LevelData = require("./LevelData");
 let UserData = require("./UserData");
 let DataBase = require("./DataBase");
 
@@ -16,9 +13,7 @@ cc.Class({
         this.loadCounts = 0;
 
         // todo: 每添加新的配置表都需要在这里创建对应的对象
-        this.upStarNeedData = new UpStarNeedData();
-        this.enemyAttrData = new EnemyAttrData();
-        this.bgColorData = new BgColorData();
+        this.levelData = new LevelData();
 
         // 动态数据
         this.userData = new UserData();

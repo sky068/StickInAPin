@@ -10,10 +10,7 @@ cc._RF.push(module, '935052anXpNNrnw1ueUkI/J', 'DataMng');
  * 数据管理, 配置数据读取, 保存读取本读数据
  */
 
-var UpStarNeedData = require("./UpStarNeedData");
-var EnemyAttrData = require("./EnemyAttrData");
-var BgColorData = require("./BgColorData");
-
+var LevelData = require("./LevelData");
 var UserData = require("./UserData");
 var DataBase = require("./DataBase");
 
@@ -22,9 +19,7 @@ cc.Class({
         this.loadCounts = 0;
 
         // todo: 每添加新的配置表都需要在这里创建对应的对象
-        this.upStarNeedData = new UpStarNeedData();
-        this.enemyAttrData = new EnemyAttrData();
-        this.bgColorData = new BgColorData();
+        this.levelData = new LevelData();
 
         // 动态数据
         this.userData = new UserData();

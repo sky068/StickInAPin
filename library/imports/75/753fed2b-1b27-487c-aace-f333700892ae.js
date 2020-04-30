@@ -17,7 +17,7 @@ window.zy = window.zy || {};
  */
 window.CHANNEL_ID = 201;
 
-window.DEBUG_OPEN = true;
+window.DEBUG_OPEN = false;
 
 window.UPLTV_IOS_APPKEY = "";
 window.UPLTV_ANDROID_APPKEY = "";

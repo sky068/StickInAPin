@@ -74,16 +74,6 @@
     "meta": 1582525829482,
     "relativePath": "resources/config"
   },
-  "660ea11f-8b60-423e-9c34-8112614bed6c": {
-    "asset": 1582525829482,
-    "meta": 1582876294126,
-    "relativePath": "resources/config/bgColorData.json"
-  },
-  "4f742a63-7502-4146-8817-dcc6c6b8a8ac": {
-    "asset": 1582525829483,
-    "meta": 1582876294126,
-    "relativePath": "resources/config/enemyAttrData.json"
-  },
   "2c4ebc9a-9094-497a-bab2-5b396eab6d4b": {
     "asset": 1583134705724,
     "meta": 1582628679629,
@@ -93,11 +83,6 @@
     "asset": 1582702851199,
     "meta": 1582876294137,
     "relativePath": "resources/effects/oldPhoto.effect"
-  },
-  "a6d39848-a2f8-40ff-ad40-c3e069d848e9": {
-    "asset": 1582525829489,
-    "meta": 1582876294137,
-    "relativePath": "resources/config/upStarNeedData.json"
   },
   "d5f34acd-affb-4832-92b2-161e0c86cf24": {
     "asset": 1582876338020,
@@ -269,725 +254,10 @@
     "meta": 1582876294220,
     "relativePath": "resources/textures/common/mask.png"
   },
-  "ade713d6-159e-4490-baf8-1e87e69c0763": {
-    "asset": 1582793603121,
-    "meta": 1582620776029,
-    "relativePath": "resources/tilemaps"
-  },
   "a057b300-7891-46b5-bc3d-946e4129cd91": {
     "asset": 1582525829507,
     "meta": 1582876294221,
     "relativePath": "resources/textures/common/red_dot.png"
-  },
-  "515e00ed-2f3e-4937-93a1-056fb1d0580b": {
-    "asset": 1582793603151,
-    "meta": 1582793603121,
-    "relativePath": "resources/tilemaps/map"
-  },
-  "6baf1831-b09f-4f78-8a4f-ca55162db373": {
-    "asset": 1582793603132,
-    "meta": 1582793603122,
-    "relativePath": "resources/tilemaps/map/building"
-  },
-  "4b88e753-3e0d-4171-afc2-77ea6c09749e": {
-    "asset": 1582793305636,
-    "meta": 1582876296718,
-    "relativePath": "resources/tilemaps/kingdom2nd.tmx"
-  },
-  "1df05333-3ff7-47d8-864a-a7eba8299648": {
-    "asset": 1582793191745,
-    "meta": 1582876294247,
-    "relativePath": "resources/tilemaps/map/building/博物馆.png"
-  },
-  "417e686b-89ef-4180-a927-14acaf7c70f2": {
-    "asset": 1582792689118,
-    "meta": 1582876294253,
-    "relativePath": "resources/tilemaps/map/building/8f3da0bf0ea08ac997763af72d3d9d9.png"
-  },
-  "2d1f9222-29a6-4ab8-9112-df0d46e79455": {
-    "asset": 1582792623353,
-    "meta": 1582876294266,
-    "relativePath": "resources/tilemaps/map/building/蛋糕店.png"
-  },
-  "e00a2354-548b-4515-9b0b-26efafde969e": {
-    "asset": 1582792623370,
-    "meta": 1582876294284,
-    "relativePath": "resources/tilemaps/map/building/动物园.png"
-  },
-  "21612971-9316-47f1-b251-57f0aa59029b": {
-    "asset": 1582792623378,
-    "meta": 1582876294296,
-    "relativePath": "resources/tilemaps/map/building/服装店.png"
-  },
-  "28fd05f8-8a1d-47d7-86e9-6ff835633ecf": {
-    "asset": 1582792689187,
-    "meta": 1582876294300,
-    "relativePath": "resources/tilemaps/map/building/城堡4.png"
-  },
-  "10c62d57-1ad5-4242-9127-a9860cb14870": {
-    "asset": 1582792623594,
-    "meta": 1582876294313,
-    "relativePath": "resources/tilemaps/map/building/果汁店.png"
-  },
-  "c61726fb-9ad0-4eb3-94fb-9487af3803ab": {
-    "asset": 1582792689130,
-    "meta": 1582876294330,
-    "relativePath": "resources/tilemaps/map/building/服装店2.png"
-  },
-  "ed3e7d19-14b7-4408-b23c-797949139f77": {
-    "asset": 1582792623579,
-    "meta": 1582876294331,
-    "relativePath": "resources/tilemaps/map/building/活动中心.png"
-  },
-  "0992de87-8ff0-4be9-a9fa-ebc2fad4f76e": {
-    "asset": 1582792623560,
-    "meta": 1582876294347,
-    "relativePath": "resources/tilemaps/map/building/伙伴家园.png"
-  },
-  "e55d6cd9-3655-48ca-9050-5afa5e4326ae": {
-    "asset": 1582792623541,
-    "meta": 1582876294348,
-    "relativePath": "resources/tilemaps/map/building/加油站.png"
-  },
-  "c4f36c24-a5ac-474c-9783-a6775c2d3982": {
-    "asset": 1582792623434,
-    "meta": 1582876294362,
-    "relativePath": "resources/tilemaps/map/building/建筑基地.png"
-  },
-  "89a6c820-ad47-44d0-8d90-7651ad3c2711": {
-    "asset": 1582792623443,
-    "meta": 1582876294366,
-    "relativePath": "resources/tilemaps/map/building/科学研究院.png"
-  },
-  "342e3f1b-72fa-41c0-912b-8dd7c9aee743": {
-    "asset": 1582792623507,
-    "meta": 1582876294376,
-    "relativePath": "resources/tilemaps/map/building/面包店.png"
-  },
-  "c63a079a-3a10-4c5e-ab9f-3ef4de5d96f7": {
-    "asset": 1582792623515,
-    "meta": 1582876294378,
-    "relativePath": "resources/tilemaps/map/building/披萨店.png"
-  },
-  "02ff8309-87e1-48c4-a4ce-3711f2f63a03": {
-    "asset": 1582792623433,
-    "meta": 1582876294398,
-    "relativePath": "resources/tilemaps/map/building/热气球起落站.png"
-  },
-  "d621e7f7-d614-4dcd-a6ad-79cce6398a7c": {
-    "asset": 1582793191747,
-    "meta": 1582876294404,
-    "relativePath": "resources/tilemaps/map/building/气象台旁灯塔.png"
-  },
-  "2aa6c2d4-c39d-429a-995d-19e106ee6269": {
-    "asset": 1582792623481,
-    "meta": 1582876294411,
-    "relativePath": "resources/tilemaps/map/building/糖果店.png"
-  },
-  "f759d6ff-37bc-4ba4-bb52-89ece82ad236": {
-    "asset": 1582792623530,
-    "meta": 1582876294416,
-    "relativePath": "resources/tilemaps/map/building/玩具城.png"
-  },
-  "77783c60-af7a-4746-9ec5-5b5b9301d179": {
-    "asset": 1582792623494,
-    "meta": 1582876294424,
-    "relativePath": "resources/tilemaps/map/building/玩具城2级.png"
-  },
-  "bdb76cc8-e74a-4652-8063-de5f4beee342": {
-    "asset": 1582792623502,
-    "meta": 1582876294429,
-    "relativePath": "resources/tilemaps/map/building/玩具城3级.png"
-  },
-  "a4a66700-ba91-45b4-8db3-f519658f7181": {
-    "asset": 1582792623454,
-    "meta": 1582876294440,
-    "relativePath": "resources/tilemaps/map/building/我的家.png"
-  },
-  "9f51e87d-e129-4766-a18d-5d277b045b35": {
-    "asset": 1582792623584,
-    "meta": 1582876294443,
-    "relativePath": "resources/tilemaps/map/building/消防局.png"
-  },
-  "63db03ab-c224-4890-9727-557b7ea56417": {
-    "asset": 1582792623570,
-    "meta": 1582876294466,
-    "relativePath": "resources/tilemaps/map/building/学习商城.png"
-  },
-  "003ef94f-fc1e-42f4-893f-de2bb63eedf1": {
-    "asset": 1582793191736,
-    "meta": 1582876294467,
-    "relativePath": "resources/tilemaps/map/building/小公园.png"
-  },
-  "191ab93f-33ae-4ec7-9730-0c3c3698f14b": {
-    "asset": 1582793191726,
-    "meta": 1582876294478,
-    "relativePath": "resources/tilemaps/map/building/学校旁国旗.png"
-  },
-  "5d7f5707-5667-4d66-82da-7ceeea2a8da9": {
-    "asset": 1582792623560,
-    "meta": 1582876294486,
-    "relativePath": "resources/tilemaps/map/building/学校.png"
-  },
-  "869737dd-7294-4895-b3fb-945cf3fe4869": {
-    "asset": 1582792623463,
-    "meta": 1582876294492,
-    "relativePath": "resources/tilemaps/map/building/音乐厅.png"
-  },
-  "48d5e9c1-8307-499b-b0c2-43bb521e7736": {
-    "asset": 1582792623470,
-    "meta": 1582876294502,
-    "relativePath": "resources/tilemaps/map/building/邮局.png"
-  },
-  "d30cfa33-19be-42c5-bcc6-d27c2c907557": {
-    "asset": 1582792623416,
-    "meta": 1582876294507,
-    "relativePath": "resources/tilemaps/map/building/邮局2级.png"
-  },
-  "964bd8df-2f7d-45f9-952c-62a90335faf8": {
-    "asset": 1582793191738,
-    "meta": 1582876294514,
-    "relativePath": "resources/tilemaps/map/building/有机草莓圆.png"
-  },
-  "a41fd164-eff9-448a-9324-1465a242d0cc": {
-    "asset": 1582793191743,
-    "meta": 1582876294524,
-    "relativePath": "resources/tilemaps/map/building/有机苹果园.png"
-  },
-  "a854e898-443f-49f4-9015-4dbeb81a4b5d": {
-    "asset": 1582792623404,
-    "meta": 1582876294525,
-    "relativePath": "resources/tilemaps/map/building/中心建筑.png"
-  },
-  "42208de7-80b4-4823-8ce4-0506784d2c9b": {
-    "asset": 1582792623396,
-    "meta": 1582876294540,
-    "relativePath": "resources/tilemaps/map/building/住宅区二.png"
-  },
-  "0db4d4f6-d02c-4682-8d99-1d59b0faccfe": {
-    "asset": 1582792623394,
-    "meta": 1582876294542,
-    "relativePath": "resources/tilemaps/map/building/住宅区二2级.png"
-  },
-  "366bc72c-36ea-4371-a78b-6f5649693355": {
-    "asset": 1582793603133,
-    "meta": 1582793603132,
-    "relativePath": "resources/tilemaps/map/builds"
-  },
-  "ed9947b4-ffb2-4313-8561-d0baf00a581a": {
-    "asset": 1582792623370,
-    "meta": 1582876294555,
-    "relativePath": "resources/tilemaps/map/building/住宅区一.png"
-  },
-  "1d7a6dcf-86c3-4106-866f-62c42a40cdd9": {
-    "asset": 1582615462953,
-    "meta": 1582876294556,
-    "relativePath": "resources/tilemaps/map/builds/8f3da0bf0ea08ac997763af72d3d9d9.png"
-  },
-  "fd30183f-520b-42d6-a4fc-e50c4aa96f97": {
-    "asset": 1582615488918,
-    "meta": 1582876294577,
-    "relativePath": "resources/tilemaps/map/builds/服装店2.png"
-  },
-  "891f5c5d-7742-4dc0-89f4-d1d65ad77762": {
-    "asset": 1582615459295,
-    "meta": 1582876294580,
-    "relativePath": "resources/tilemaps/map/builds/城堡4.png"
-  },
-  "390d30ba-8e68-4502-acef-b434293b1bf4": {
-    "asset": 1582793603139,
-    "meta": 1582793603134,
-    "relativePath": "resources/tilemaps/map/edge"
-  },
-  "11cce14f-a406-4912-94ec-7a22cb1a2daf": {
-    "asset": 1582622552900,
-    "meta": 1582876294588,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 37.png"
-  },
-  "770b7799-2724-4b94-845d-b674654e5c9e": {
-    "asset": 1582622552902,
-    "meta": 1582876294595,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 38.png"
-  },
-  "450bf3b6-1006-4c51-be90-89a0e74a6abb": {
-    "asset": 1582622552903,
-    "meta": 1582876294605,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 39.png"
-  },
-  "4c9ae116-93c4-4963-a702-d9bc372b1a1b": {
-    "asset": 1582614008024,
-    "meta": 1582876294605,
-    "relativePath": "resources/tilemaps/map/builds/蒙版组 28.png"
-  },
-  "8345eb9d-53aa-41ba-8b34-9a482e924373": {
-    "asset": 1582622552903,
-    "meta": 1582876294612,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 40.png"
-  },
-  "4d43db23-43a3-4f0c-abbc-301475fe8369": {
-    "asset": 1582622552903,
-    "meta": 1582876294614,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 41.png"
-  },
-  "44bbcb5a-b333-4ded-a26a-49b777694f25": {
-    "asset": 1582622552897,
-    "meta": 1582876294622,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 42.png"
-  },
-  "24db4215-8444-421e-9621-10ce305c682b": {
-    "asset": 1582622552897,
-    "meta": 1582876294624,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 43.png"
-  },
-  "cd27253a-920c-4f43-a33f-f2f7987b6172": {
-    "asset": 1582623008307,
-    "meta": 1582876294632,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 45.png"
-  },
-  "08da3c2a-b9d8-4858-9de9-5eee72a01226": {
-    "asset": 1582622552897,
-    "meta": 1582876294633,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 44.png"
-  },
-  "15751aac-61df-4fe1-aa99-6dc2e3e90c6e": {
-    "asset": 1582623008286,
-    "meta": 1582876294642,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 47.png"
-  },
-  "a28c6857-69da-4f17-821f-f779aec961b4": {
-    "asset": 1582623008303,
-    "meta": 1582876294642,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 46.png"
-  },
-  "760488ca-f3cb-4c16-946b-27f02adf6505": {
-    "asset": 1582623008312,
-    "meta": 1582876294649,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 48.png"
-  },
-  "1d3fb394-0523-46ea-b3fa-e8d46bd5e64b": {
-    "asset": 1582623008302,
-    "meta": 1582876294650,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 49.png"
-  },
-  "cf716ed5-209e-4779-bf1a-7cf403ac0e15": {
-    "asset": 1582623008312,
-    "meta": 1582876294659,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 51.png"
-  },
-  "3fa14148-1171-4e7f-9bdd-6ea95e338dde": {
-    "asset": 1582623008295,
-    "meta": 1582876294660,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 50.png"
-  },
-  "4c5d475f-6cd3-4174-abfe-92cd801eacb9": {
-    "asset": 1582793603141,
-    "meta": 1582793603140,
-    "relativePath": "resources/tilemaps/map/ground"
-  },
-  "21e08f4e-55e7-4091-b3c9-7f2d0210d411": {
-    "asset": 1582616887038,
-    "meta": 1582876294671,
-    "relativePath": "resources/tilemaps/map/ground/gound.png"
-  },
-  "0fbe7459-b6b3-4887-b771-191932991d92": {
-    "asset": 1582623008313,
-    "meta": 1582876294671,
-    "relativePath": "resources/tilemaps/map/edge/蒙版组 52.png"
-  },
-  "a354c97b-5db6-40a6-86fe-e5e6be4dd0e5": {
-    "asset": 1582623046742,
-    "meta": 1582876294679,
-    "relativePath": "resources/tilemaps/map/ground/sand.png"
-  },
-  "6ddd30e7-923e-49d8-a281-e11beccac74f": {
-    "asset": 1582633084123,
-    "meta": 1582876294681,
-    "relativePath": "resources/tilemaps/map/ground/grass.png"
-  },
-  "c07b0037-a20e-4c90-955e-b97fb9c06ea1": {
-    "asset": 1582793603151,
-    "meta": 1582793603141,
-    "relativePath": "resources/tilemaps/map/misc"
-  },
-  "0418176e-9bb7-40cb-bdfd-3f4f21e286fa": {
-    "asset": 1582633091008,
-    "meta": 1582876294688,
-    "relativePath": "resources/tilemaps/map/ground/sea.png"
-  },
-  "36e36adc-278a-460a-a212-8df391657b71": {
-    "asset": 1582792366259,
-    "meta": 1582876294693,
-    "relativePath": "resources/tilemaps/map/misc/博物馆.png"
-  },
-  "f293fbcb-f5a5-409e-a5f4-daa0820df438": {
-    "asset": 1582792366302,
-    "meta": 1582876294698,
-    "relativePath": "resources/tilemaps/map/misc/蛋糕店.png"
-  },
-  "9ccf3e92-041a-47a1-9822-651e58f55d74": {
-    "asset": 1582792366278,
-    "meta": 1582876294705,
-    "relativePath": "resources/tilemaps/map/misc/动物园.png"
-  },
-  "1caa2797-6db4-455b-ba95-c6b02f9cc2e7": {
-    "asset": 1582792366310,
-    "meta": 1582876294707,
-    "relativePath": "resources/tilemaps/map/misc/服装店.png"
-  },
-  "c17ed39b-35ec-4f25-a639-e24e1672e9a9": {
-    "asset": 1582792057431,
-    "meta": 1582876294715,
-    "relativePath": "resources/tilemaps/map/misc/红树1.png"
-  },
-  "ef744d4d-3a03-4b79-9af6-f1e1b4dbf4bc": {
-    "asset": 1582792366503,
-    "meta": 1582876294716,
-    "relativePath": "resources/tilemaps/map/misc/果汁店.png"
-  },
-  "1b334dcf-ad9f-49cb-b542-ae5c51db5631": {
-    "asset": 1582792037225,
-    "meta": 1582876294722,
-    "relativePath": "resources/tilemaps/map/misc/灰圆石头.png"
-  },
-  "24ad5757-7a16-4129-b567-96599977260c": {
-    "asset": 1582792366493,
-    "meta": 1582876294728,
-    "relativePath": "resources/tilemaps/map/misc/活动中心.png"
-  },
-  "268afed9-c492-4baa-854b-df7c3043f452": {
-    "asset": 1582792366488,
-    "meta": 1582876294733,
-    "relativePath": "resources/tilemaps/map/misc/伙伴家园.png"
-  },
-  "321bbd29-012b-4c04-97ab-2859389d0f1e": {
-    "asset": 1582792366478,
-    "meta": 1582876294739,
-    "relativePath": "resources/tilemaps/map/misc/加油站.png"
-  },
-  "c0fb2999-8eed-437d-8702-dccf9a4fcb3b": {
-    "asset": 1582792366463,
-    "meta": 1582876294744,
-    "relativePath": "resources/tilemaps/map/misc/建筑基地.png"
-  },
-  "b5a292cf-daa7-47b6-a360-235e104e7099": {
-    "asset": 1582792003686,
-    "meta": 1582876294749,
-    "relativePath": "resources/tilemaps/map/misc/绿灌木.png"
-  },
-  "4b98b5ea-73df-4214-bd46-f16489daae23": {
-    "asset": 1582792366456,
-    "meta": 1582876294752,
-    "relativePath": "resources/tilemaps/map/misc/科学研究院.png"
-  },
-  "28e86fd7-bfb8-4325-a6da-57db61bb4cc4": {
-    "asset": 1582791999905,
-    "meta": 1582876294755,
-    "relativePath": "resources/tilemaps/map/misc/绿树2.png"
-  },
-  "8124e312-cdbc-41dd-9d54-9402c4fbd725": {
-    "asset": 1582792366441,
-    "meta": 1582876294762,
-    "relativePath": "resources/tilemaps/map/misc/面包店.png"
-  },
-  "83cbece3-5a39-46e2-8154-e76fab4a7b02": {
-    "asset": 1582792366435,
-    "meta": 1582876294764,
-    "relativePath": "resources/tilemaps/map/misc/披萨店.png"
-  },
-  "54a34edd-8e5a-4e80-8f05-f51d4f25afd5": {
-    "asset": 1582792366410,
-    "meta": 1582876294774,
-    "relativePath": "resources/tilemaps/map/misc/糖果店.png"
-  },
-  "820e2f18-4146-42ba-935d-3b49232467cf": {
-    "asset": 1582792366432,
-    "meta": 1582876294776,
-    "relativePath": "resources/tilemaps/map/misc/热气球起落站.png"
-  },
-  "15af7301-d6d8-4243-89ca-08ebcca42a62": {
-    "asset": 1582792366391,
-    "meta": 1582876294785,
-    "relativePath": "resources/tilemaps/map/misc/玩具城.png"
-  },
-  "0f22d4a9-2fb1-45a4-af43-d1f0c4e49793": {
-    "asset": 1582792366404,
-    "meta": 1582876294786,
-    "relativePath": "resources/tilemaps/map/misc/玩具城2级.png"
-  },
-  "2b7751c9-1283-49a5-b64f-375730f93306": {
-    "asset": 1582792366369,
-    "meta": 1582876294795,
-    "relativePath": "resources/tilemaps/map/misc/玩具城3级.png"
-  },
-  "593cd879-26ff-4499-b473-877b2a17fc4d": {
-    "asset": 1582792366384,
-    "meta": 1582876294797,
-    "relativePath": "resources/tilemaps/map/misc/我的家.png"
-  },
-  "a945d8c0-05a9-4730-9b4e-d2e06bcbda53": {
-    "asset": 1582792139410,
-    "meta": 1582876294804,
-    "relativePath": "resources/tilemaps/map/misc/小水池.png"
-  },
-  "8de70818-1c44-4e65-994e-f419572cea54": {
-    "asset": 1582792366365,
-    "meta": 1582876294807,
-    "relativePath": "resources/tilemaps/map/misc/消防局.png"
-  },
-  "5130862e-8709-45f9-aa12-f252db8ac85f": {
-    "asset": 1582792366345,
-    "meta": 1582876294815,
-    "relativePath": "resources/tilemaps/map/misc/学习商城.png"
-  },
-  "15a5256f-1e63-452e-992a-63c88b5ba1cd": {
-    "asset": 1582792366364,
-    "meta": 1582876294820,
-    "relativePath": "resources/tilemaps/map/misc/学校.png"
-  },
-  "fb6130e1-31af-4762-92e9-f7d670ff6923": {
-    "asset": 1582792366320,
-    "meta": 1582876294826,
-    "relativePath": "resources/tilemaps/map/misc/音乐厅.png"
-  },
-  "c3ce735e-5bf0-4b0d-b5e9-c90f1230e79f": {
-    "asset": 1582792366332,
-    "meta": 1582876294831,
-    "relativePath": "resources/tilemaps/map/misc/邮局.png"
-  },
-  "6d5521c7-3fd6-4378-aa46-bac065a772f1": {
-    "asset": 1582792366340,
-    "meta": 1582876294838,
-    "relativePath": "resources/tilemaps/map/misc/邮局2级.png"
-  },
-  "6e820e92-1590-463d-97f2-740ff70dc4a1": {
-    "asset": 1582792366277,
-    "meta": 1582876294840,
-    "relativePath": "resources/tilemaps/map/misc/中心建筑.png"
-  },
-  "4e7f7734-a684-4bd8-b286-b846a1a6b459": {
-    "asset": 1582792366289,
-    "meta": 1582876294850,
-    "relativePath": "resources/tilemaps/map/misc/住宅区二.png"
-  },
-  "8c8288fe-da7c-4aed-82bd-a9f9d1642835": {
-    "asset": 1582792366254,
-    "meta": 1582876294851,
-    "relativePath": "resources/tilemaps/map/misc/住宅区二2级.png"
-  },
-  "8a61d3c1-d8fe-4d4f-8547-768ccb0ca714": {
-    "asset": 1582793603162,
-    "meta": 1582793603151,
-    "relativePath": "resources/tilemaps/map/roads"
-  },
-  "ebfe12af-95d6-4922-b253-a5ebb992549c": {
-    "asset": 1582631939922,
-    "meta": 1582876294859,
-    "relativePath": "resources/tilemaps/map/roads/123.png"
-  },
-  "abc1feba-404a-4b2f-944c-39e713897c73": {
-    "asset": 1582792366294,
-    "meta": 1582876294861,
-    "relativePath": "resources/tilemaps/map/misc/住宅区一.png"
-  },
-  "6f3d6761-9158-4af5-b093-fc3285bdd40a": {
-    "asset": 1582791040414,
-    "meta": 1582876294868,
-    "relativePath": "resources/tilemaps/map/roads/1234.png"
-  },
-  "8220ec5b-e7b8-4dc3-9fc5-cf01bbd62239": {
-    "asset": 1582617438042,
-    "meta": 1582876294869,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 29.png"
-  },
-  "02bb9e9b-07ee-4f93-a57e-0da8e50e6d7b": {
-    "asset": 1582617438042,
-    "meta": 1582876294877,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 30.png"
-  },
-  "1c15adb5-b3e8-4dee-9ae8-fbd18aa87047": {
-    "asset": 1582617438042,
-    "meta": 1582876294878,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 31.png"
-  },
-  "af7d4099-cee7-4eca-9a2c-7eceebaef9d3": {
-    "asset": 1582617438047,
-    "meta": 1582876294885,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 32.png"
-  },
-  "e14164e4-6a77-4679-b9a6-76bd72ec9dda": {
-    "asset": 1582617438052,
-    "meta": 1582876294886,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 33.png"
-  },
-  "de5d90d1-22e7-4f0d-8004-b8dbbc329e2d": {
-    "asset": 1582617438042,
-    "meta": 1582876294893,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 34.png"
-  },
-  "12b1ef35-dc7f-4646-bceb-d6c684aeaba3": {
-    "asset": 1582617438052,
-    "meta": 1582876294894,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 35.png"
-  },
-  "15c10860-8274-4502-b899-cfc5141ab36c": {
-    "asset": 1582625090085,
-    "meta": 1582876294902,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 58.png"
-  },
-  "0cab3a35-9efc-4cf3-a71f-293d7388708e": {
-    "asset": 1582617438052,
-    "meta": 1582876294904,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 36.png"
-  },
-  "d37dffb6-16d4-40d0-a4d9-afe1307a189d": {
-    "asset": 1582625090086,
-    "meta": 1582876294911,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 59.png"
-  },
-  "57fce245-11a6-4afe-a884-e721245ebd14": {
-    "asset": 1582625090079,
-    "meta": 1582876294912,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 60.png"
-  },
-  "327039a2-b1e5-4393-97ba-9c1d629242f0": {
-    "asset": 1582625090075,
-    "meta": 1582876294920,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 62.png"
-  },
-  "ad184fc5-6769-4302-b683-0c809d968dfc": {
-    "asset": 1582625090085,
-    "meta": 1582876294921,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 61.png"
-  },
-  "43944a1f-fa7b-447a-881e-c8c0c9a5d263": {
-    "asset": 1582625090079,
-    "meta": 1582876294929,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 64.png"
-  },
-  "c4369366-9d7e-44d7-abad-d61a4c4325ab": {
-    "asset": 1582625090073,
-    "meta": 1582876294930,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 63.png"
-  },
-  "95375412-a864-4afc-843b-aba180a1375c": {
-    "asset": 1582625739799,
-    "meta": 1582876294937,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 66.png"
-  },
-  "8b7028d6-31fe-478b-8717-f2e899d7372b": {
-    "asset": 1582625090081,
-    "meta": 1582876294939,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 65.png"
-  },
-  "b04bae61-c0d8-4a8f-9af2-21c3811d18f1": {
-    "asset": 1582790895765,
-    "meta": 1582876294947,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 68.png"
-  },
-  "35988f2e-6329-476e-a0d7-a35d297f7016": {
-    "asset": 1582625739795,
-    "meta": 1582876294948,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 67.png"
-  },
-  "0baf3f4e-b268-4cc2-9705-72ac6ac1b706": {
-    "asset": 1582613213197,
-    "meta": 1582876294956,
-    "relativePath": "resources/tilemaps/map/roads/组 5298.png"
-  },
-  "a08c427f-cf7b-4177-ba97-8bb11bc16eb2": {
-    "asset": 1582791010524,
-    "meta": 1582876294957,
-    "relativePath": "resources/tilemaps/map/roads/蒙版组 69.png"
-  },
-  "d166e89f-555d-4f97-a534-9fba97f24c80": {
-    "asset": 1582613213197,
-    "meta": 1582876294965,
-    "relativePath": "resources/tilemaps/map/roads/组 5301.png"
-  },
-  "ff444f2e-5e9f-4f85-bc30-3e7df7ba73f9": {
-    "asset": 1582613213215,
-    "meta": 1582876294966,
-    "relativePath": "resources/tilemaps/map/roads/组 5304.png"
-  },
-  "9c91a4f4-78e0-4cb3-9724-f34d37af2685": {
-    "asset": 1582613213214,
-    "meta": 1582876294971,
-    "relativePath": "resources/tilemaps/map/roads/组 5307.png"
-  },
-  "6b765a4b-9f82-41e3-b701-354bbbbf023e": {
-    "asset": 1582613213221,
-    "meta": 1582876294973,
-    "relativePath": "resources/tilemaps/map/roads/组 5310.png"
-  },
-  "13f8587e-80ff-4aff-bf1a-dd55a0bc99bb": {
-    "asset": 1582613213150,
-    "meta": 1582876294980,
-    "relativePath": "resources/tilemaps/map/roads/组 5425.png"
-  },
-  "e3edaa8e-0bc0-4bfe-9a1d-3cfda116bb9b": {
-    "asset": 1582613213222,
-    "meta": 1582876294981,
-    "relativePath": "resources/tilemaps/map/roads/组 5339.png"
-  },
-  "4364b295-10ec-43cc-9e5f-0e69c79d90c4": {
-    "asset": 1582613213223,
-    "meta": 1582876294987,
-    "relativePath": "resources/tilemaps/map/roads/组 5428.png"
-  },
-  "2c7c2038-dbc8-4124-881f-c1dcf51a03da": {
-    "asset": 1582613213154,
-    "meta": 1582876294988,
-    "relativePath": "resources/tilemaps/map/roads/组 5458.png"
-  },
-  "76fa0c14-5097-4e37-a92f-d46f3f7c7ee1": {
-    "asset": 1582613213208,
-    "meta": 1582876294995,
-    "relativePath": "resources/tilemaps/map/roads/组 5460.png"
-  },
-  "fa3c509a-2b98-47f6-b2b1-9c8e3935d063": {
-    "asset": 1582613213197,
-    "meta": 1582876294996,
-    "relativePath": "resources/tilemaps/map/roads/组 5459.png"
-  },
-  "7c269067-d26c-42a9-bc95-153da9b5c754": {
-    "asset": 1582613213178,
-    "meta": 1582876295002,
-    "relativePath": "resources/tilemaps/map/roads/组 5462.png"
-  },
-  "3cae2893-38c0-4415-8835-59647168a895": {
-    "asset": 1582613213194,
-    "meta": 1582876295003,
-    "relativePath": "resources/tilemaps/map/roads/组 5461.png"
-  },
-  "47998763-b257-457e-a636-24a1365dfadb": {
-    "asset": 1582613213158,
-    "meta": 1582876295010,
-    "relativePath": "resources/tilemaps/map/roads/组 5464.png"
-  },
-  "b76efe97-f2fe-4f7f-9ceb-d1c88406b265": {
-    "asset": 1582613213192,
-    "meta": 1582876295011,
-    "relativePath": "resources/tilemaps/map/roads/组 5463.png"
-  },
-  "e8cebb53-396e-4aa8-9452-e0a48f68d318": {
-    "asset": 1582613213150,
-    "meta": 1582876295018,
-    "relativePath": "resources/tilemaps/map/roads/组 5465.png"
-  },
-  "b0b88b0a-5539-47d0-803d-f126d62322f1": {
-    "asset": 1582613213156,
-    "meta": 1582876295019,
-    "relativePath": "resources/tilemaps/map/roads/组 5466.png"
-  },
-  "c59d312b-da29-4426-9c03-0e59a97646d2": {
-    "asset": 1582613213153,
-    "meta": 1582876295026,
-    "relativePath": "resources/tilemaps/map/roads/组 5467.png"
-  },
-  "9e5612c3-9dd0-4003-91e1-ad14c4a1a104": {
-    "asset": 1582613213153,
-    "meta": 1582876295027,
-    "relativePath": "resources/tilemaps/map/roads/组 5468.png"
   },
   "50067323-40e9-4a52-8309-850ddd97a15d": {
     "asset": 1588155662444,
@@ -998,11 +268,6 @@
     "asset": 1582875773981,
     "meta": 1588155659492,
     "relativePath": "scenes/Test.fire"
-  },
-  "3e92adff-bf35-41dd-9e21-0aa1e4793c64": {
-    "asset": 1582613213150,
-    "meta": 1582876295034,
-    "relativePath": "resources/tilemaps/map/roads/组 5469.png"
   },
   "5b465356-2f2a-48aa-91ca-5cd1ccc53152": {
     "asset": 1588154741568,
@@ -1019,45 +284,15 @@
     "meta": 1582525829509,
     "relativePath": "scripts/data"
   },
-  "73fc865f-cbe4-4bd0-8633-f470ff846c80": {
-    "asset": 1582525829509,
-    "meta": 1582876295178,
-    "relativePath": "scripts/data/BgColorData.js"
-  },
-  "146382bd-c55d-4c83-8774-1f05bb866244": {
-    "asset": 1582870091902,
-    "meta": 1582876295183,
-    "relativePath": "scripts/data/ConstData.js"
-  },
   "4bc8d92a-1d30-4c71-a1e2-d55279cd4cc8": {
     "asset": 1582525829509,
     "meta": 1582876295241,
     "relativePath": "scripts/data/DataBase.js"
   },
-  "93505d9a-9d7a-4d36-b9f0-d6e794908fc9": {
-    "asset": 1582870887536,
-    "meta": 1582876295250,
-    "relativePath": "scripts/data/DataMng.js"
-  },
-  "13c2ac92-b5bd-4ec4-ac38-de042c173f6e": {
-    "asset": 1582525829510,
-    "meta": 1582876295266,
-    "relativePath": "scripts/data/EnemyAttrData.js"
-  },
-  "88221b1f-cbb7-429f-ba68-e059442e82a9": {
-    "asset": 1582525829512,
-    "meta": 1582876295291,
-    "relativePath": "scripts/data/UpStarNeedData.js"
-  },
   "b860a3ef-7c8e-42e1-b7f1-f8584a12b955": {
     "asset": 1582525829524,
     "meta": 1582525829512,
     "relativePath": "scripts/framework"
-  },
-  "7336d1da-674c-4290-9304-f82791feaf62": {
-    "asset": 1582525829512,
-    "meta": 1582876295297,
-    "relativePath": "scripts/data/UserData.js"
   },
   "4986fc53-c535-4840-bd79-bc974567b30c": {
     "asset": 1583131058244,
@@ -1419,14 +654,9 @@
     "meta": 1588133242664,
     "relativePath": "resources/materials/bright.mtl"
   },
-  "753fed2b-1b27-487c-aace-f333700892ae": {
-    "asset": 1588133335775,
-    "meta": 1588133338072,
-    "relativePath": "scripts/ClientConfig.js"
-  },
   "ac5e0f56-5f75-4e5f-9799-a1ffb7694dbe": {
-    "asset": 1588236683960,
-    "meta": 1588236683965,
+    "asset": 1588239429904,
+    "meta": 1588239429908,
     "relativePath": "scenes/Game.fire"
   },
   "53b326cd-df52-4b45-9c1e-1a6475204839": {
@@ -1438,11 +668,6 @@
     "asset": 1588235809981,
     "meta": 1588235809985,
     "relativePath": "resources/prefabs/SmallBall.prefab"
-  },
-  "be329027-fed7-476d-b213-1ec636b0e563": {
-    "asset": 1588216364878,
-    "meta": 1588216365852,
-    "relativePath": "scripts/scene/InitScene.js"
   },
   "430eccbf-bf2c-4e6e-8c0c-884bbb487f32": {
     "asset": 1577454458000,
@@ -1829,9 +1054,44 @@
     "meta": 1588232269073,
     "relativePath": "scripts/SmallBall.js"
   },
+  "146382bd-c55d-4c83-8774-1f05bb866244": {
+    "asset": 1588238383503,
+    "meta": 1588238497431,
+    "relativePath": "scripts/data/ConstData.js"
+  },
+  "7336d1da-674c-4290-9304-f82791feaf62": {
+    "asset": 1588238335742,
+    "meta": 1588238497522,
+    "relativePath": "scripts/data/UserData.js"
+  },
+  "ca989616-f35c-46f1-a4e6-2199ccfe7503": {
+    "asset": 1588238182520,
+    "meta": 1588238497531,
+    "relativePath": "scripts/data/LevelData.js"
+  },
+  "93505d9a-9d7a-4d36-b9f0-d6e794908fc9": {
+    "asset": 1588238799958,
+    "meta": 1588238801363,
+    "relativePath": "scripts/data/DataMng.js"
+  },
   "96793c0a-6a05-46f0-b1d3-76c8abba0676": {
-    "asset": 1588236653944,
-    "meta": 1588236656750,
+    "asset": 1588239038817,
+    "meta": 1588239040483,
     "relativePath": "scripts/scene/GameScene.js"
+  },
+  "b6b88d30-814a-42cf-a6ca-4f80f7424da0": {
+    "asset": 1588239222335,
+    "meta": 1588239226286,
+    "relativePath": "resources/config/levelCfg.json"
+  },
+  "753fed2b-1b27-487c-aace-f333700892ae": {
+    "asset": 1588239256177,
+    "meta": 1588239257346,
+    "relativePath": "scripts/ClientConfig.js"
+  },
+  "be329027-fed7-476d-b213-1ec636b0e563": {
+    "asset": 1588239320634,
+    "meta": 1588239321192,
+    "relativePath": "scripts/scene/InitScene.js"
   }
 }

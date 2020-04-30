@@ -19,19 +19,14 @@ cc.Class({
         this._bigSpeed = 0;
         this._bigDir = -1;
         this._gameStart = false;
-        this.curLevel = cc.sys.localStorage.getItem("game_level") || 1;
+        this.curLevel = zy.dataMng.userData.curLevel;
         this.curLevel = parseInt(this.curLevel);
         this.loadLevel(this.curLevel);
     },
 
     loadLevel(l) {
-        let data = {
-            big: 3,
-            small: 5,
-            speed: 1,
-            dir: 1,
-        }
-        this._bigDir = data.dir;
+        let data = zy.dataMng.levelData.getLevelData(l);
+        this._bigDir = data.dir == 0 ? (Math.random() < 0.5 ? 1 : -1) : data.dir;
         this._bigSpeed = data.speed;
         this.levelLabel.string = "第 " + l + " 关";
 
@@ -45,15 +40,15 @@ cc.Class({
         this.tmpBalls.splice(0);
         this.smallBalls.splice(0);
 
-        for (let i = 0; i < data.small; i++) {
+        for (let i = 0; i < data.smallNum; i++) {
             let ball = cc.instantiate(this.bulletNode);
             ball.parent = this.ballPanel;
             this.smallBalls.push(ball);
-            ball.getComponentInChildren(cc.Label).string = data.small - i;
+            ball.getComponentInChildren(cc.Label).string = data.smallNum - i;
         }
 
         this.bgNode.color = cc.color("#436770");
-        this.loadBigBall(data.big);
+        this.loadBigBall(data.bigNum);
 
         this.scheduleOnce(() => {
             this._gameStart = true;
@@ -114,7 +109,7 @@ cc.Class({
 
             let radius = this.bigBall.height / 2 - 2;
             let des = cc.v2(0, this.bigBall.y - radius);
-            ball.runAction(cc.sequence(cc.moveTo(0.1, des), cc.callFunc(() => {
+            ball.runAction(cc.sequence(cc.moveTo(0.1, des).easing(cc.easeSineOut()), cc.callFunc(() => {
                 this.tmpBalls.shift();
                 ball.parent = this.bigBall;
                 let angle = this.bigBall.angle;
@@ -134,9 +129,10 @@ cc.Class({
 
     _checkPass() {
         if (this.smallBalls.length == 0) {
+            this._gameStart = false;
             this.bgNode.color = cc.color("#4C7043");
             let des = "恭喜过关，即将进入下一关";
-            const max = 20;
+            const max = zy.dataMng.levelData.getMaxLevel();
             if (this.curLevel < max) {
                 this.curLevel += 1;
             } else {
@@ -146,7 +142,8 @@ cc.Class({
             this.scheduleOnce(() => {
                 this.loadLevel(this.curLevel);
             }, 2);
-            cc.sys.localStorage.setItem("game_level", this.curLevel);
+
+            zy.dataMng.userData.curLevel = this.curLevel;
         }
         
     },

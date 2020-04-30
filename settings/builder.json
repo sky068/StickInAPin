@@ -1,5 +1,5 @@
 {
-  "title": "BookWorld",
+  "title": "StickInAPin",
   "packageName": "",
   "startScene": "da615b69-ce32-4328-92f0-68c60929ba75",
   "excludeScenes": [
@@ -13,7 +13,7 @@
     "portrait": false,
     "upsideDown": false
   },
-  "webOrientation": "auto",
+  "webOrientation": "portrait",
   "inlineSpriteFrames": true,
   "inlineSpriteFrames_native": true,
   "mergeStartScene": false,

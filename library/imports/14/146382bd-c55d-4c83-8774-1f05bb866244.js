@@ -26,7 +26,7 @@ var DesignSize = cc.size(1334, 750);
 
 //
 var StaticKey = {
-    SaveDataVersion: "V2", // 附加给本地储存的key上，用来更新版本强制清空用户数据
+    SaveDataVersion: "V1", // 附加给本地储存的key上，用来更新版本强制清空用户数据
     PlayerDataKey: "playerDataKey"
 };
 
@@ -76,21 +76,6 @@ cc.Class({
         AdKey: AdKey,
         OpenAdsKey: OpenAdsKey,
         OpenAdsKeyIOS: OpenAdsKeyIOS,
-
-        MaxPhCounts1Day: 10, // 每天最多可以领取体力的次数
-        PhAdReward: 5, // 每次看广告给的体力值
-        PhLevelReward: 3, // 过关奖励的体力
-        PhCost: 5, // 每关消耗体力
-        PhDefault: 20, // 默认体力值
-        PhRecoverTime: 10 * 60, // 体力恢复时间（秒）默认10分钟恢复一点体力
-
-        FreeCoinsCooling: 5 * 60, // 看广告领金币等待时间（秒）
-        FreeCoinsMaxNum: 10, // 看广告领金币每日最多次数
-        FreeCoinsMaxNum2: 4,
-        FreeCoinsNeedAds: 5, // 领取免费金币要求看广告次数
-
-        InterAdLevel: 4, // 插屏广告起始关卡
-        InterAdDuration: 2, // 插屏广告间隔关卡
 
         Font: Font,
 
