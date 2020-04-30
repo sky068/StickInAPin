@@ -2,7 +2,8 @@
   "start-scene": "da615b69-ce32-4328-92f0-68c60929ba75",
   "group-list": [
     "default",
-    "map"
+    "earth",
+    "small"
   ],
   "collision-matrix": [
     [
@@ -10,7 +11,13 @@
     ],
     [
       false,
+      false,
       false
+    ],
+    [
+      false,
+      false,
+      true
     ]
   ],
   "excluded-modules": [

@@ -5,8 +5,8 @@
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 323,
-      "y": 119,
+      "x": 178,
+      "y": 54,
       "width": 1259,
       "height": 871,
       "layout": {
@@ -18,23 +18,23 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 365.71875,
+                "height": 366,
                 "type": "panel",
-                "width": 283.953125
+                "width": 284
               },
               {
                 "active": 0,
                 "children": [
                   "assets"
                 ],
-                "height": 421.28125,
+                "height": 420.984375,
                 "type": "panel",
-                "width": 283.953125
+                "width": 284
               }
             ],
             "height": 790,
             "type": "dock-v",
-            "width": 283.953125
+            "width": 284
           },
           {
             "children": [
@@ -45,10 +45,10 @@
                 ],
                 "height": 521,
                 "type": "panel",
-                "width": 665.046875
+                "width": 664.984375
               },
               {
-                "active": 2,
+                "active": 0,
                 "children": [
                   "console",
                   "timeline",
@@ -56,12 +56,12 @@
                 ],
                 "height": 266,
                 "type": "panel",
-                "width": 665.046875
+                "width": 664.984375
               }
             ],
             "height": 790,
             "type": "dock-v",
-            "width": 665.046875
+            "width": 664.984375
           },
           {
             "active": 0,
@@ -87,7 +87,33 @@
         "cocos-services"
       ]
     },
-    "worker": {}
+    "worker": {},
+    "window-1588232030523": {
+      "main": false,
+      "url": "unpack://static/window.html",
+      "windowType": "dockable",
+      "x": 557,
+      "y": 198,
+      "width": 788,
+      "height": 612,
+      "layout": {
+        "children": [
+          {
+            "active": 0,
+            "children": [
+              "project-settings"
+            ],
+            "height": 590,
+            "type": "panel",
+            "width": 788
+          }
+        ],
+        "type": "dock-v"
+      },
+      "panels": [
+        "project-settings"
+      ]
+    }
   },
   "panels": {
     "preferences": {
@@ -97,8 +123,8 @@
       "height": 548
     },
     "project-settings": {
-      "x": 515,
-      "y": 152,
+      "x": 557,
+      "y": 198,
       "width": 788,
       "height": 612
     },

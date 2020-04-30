@@ -37,8 +37,6 @@ cc.Class({
                 }
 
                 cc.debug.setDisplayStats(DEBUG_OPEN); //隐藏左下方测试信息
-
-                // this.init();
         },
         init: function init() {
                 window.i18n = require('./../framework/i18n/i18n');
@@ -86,7 +84,7 @@ cc.Class({
                 zy.dataMng.loadDataFromLocalFile(function (c, t) {
                         cc.log("load local cfg: %d/%d", c, t);
                 }, function () {
-                        zy.director.loadScene("TestScene");
+                        zy.director.loadScene("Game");
                 });
         }
 });

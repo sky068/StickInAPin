@@ -32,8 +32,6 @@ cc.Class({
         }
 
         cc.debug.setDisplayStats(DEBUG_OPEN); //隐藏左下方测试信息
-
-        // this.init();
     },
 
     init() {
@@ -82,7 +80,7 @@ cc.Class({
         zy.dataMng.loadDataFromLocalFile((c, t)=>{
             cc.log("load local cfg: %d/%d", c, t);
         }, ()=>{
-            zy.director.loadScene("TestScene");            
+            zy.director.loadScene("Game");            
         });
 
     },
