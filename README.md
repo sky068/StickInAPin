@@ -5,4 +5,4 @@
 
 [试玩](http://skyxu123.gitee.io/gamelover/games/stickInAPin/)
 
-![](./chazhen.gif)
+![截图](./chazhen.gif)
