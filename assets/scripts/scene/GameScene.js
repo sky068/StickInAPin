@@ -109,7 +109,7 @@ cc.Class({
 
             let radius = this.bigBall.height / 2 - 2;
             let des = cc.v2(0, this.bigBall.y - radius);
-            ball.runAction(cc.sequence(cc.moveTo(0.1, des).easing(cc.easeSineOut()), cc.callFunc(() => {
+            ball.runAction(cc.sequence(cc.moveTo(0.05, des).easing(cc.easeSineOut()), cc.callFunc(() => {
                 this.tmpBalls.shift();
                 ball.parent = this.bigBall;
                 let angle = this.bigBall.angle;

@@ -161,7 +161,7 @@ cc.Class({
 
             var radius = this.bigBall.height / 2 - 2;
             var des = cc.v2(0, this.bigBall.y - radius);
-            ball.runAction(cc.sequence(cc.moveTo(0.1, des).easing(cc.easeSineOut()), cc.callFunc(function () {
+            ball.runAction(cc.sequence(cc.moveTo(0.05, des).easing(cc.easeSineOut()), cc.callFunc(function () {
                 _this3.tmpBalls.shift();
                 ball.parent = _this3.bigBall;
                 var angle = _this3.bigBall.angle;

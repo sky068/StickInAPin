@@ -65,12 +65,12 @@
     "relativePath": "resources/materials"
   },
   "bf56d31c-3c67-46ec-abee-6f925ed7d2c9": {
-    "asset": 1582703678691,
+    "asset": 1588236834226,
     "meta": 1582703698886,
     "relativePath": "resources"
   },
   "a4766af5-a793-4a5d-b6a0-67e420f53fe2": {
-    "asset": 1582873297804,
+    "asset": 1588238497358,
     "meta": 1582525829482,
     "relativePath": "resources/config"
   },
@@ -125,7 +125,7 @@
     "relativePath": "resources/materials/oldPhoto.mtl"
   },
   "6d53840c-3c75-4d2f-a677-5d86b2fa6f51": {
-    "asset": 1588154689795,
+    "asset": 1588236357185,
     "meta": 1582525829493,
     "relativePath": "resources/prefabs"
   },
@@ -270,7 +270,7 @@
     "relativePath": "scenes/Test.fire"
   },
   "5b465356-2f2a-48aa-91ca-5cd1ccc53152": {
-    "asset": 1588154741568,
+    "asset": 1588233943253,
     "meta": 1582703698996,
     "relativePath": "scripts"
   },
@@ -280,7 +280,7 @@
     "relativePath": "scenes/Update.fire"
   },
   "ee63b76f-1196-4e40-9c37-cda95685c44a": {
-    "asset": 1582870230455,
+    "asset": 1588238497359,
     "meta": 1582525829509,
     "relativePath": "scripts/data"
   },
@@ -625,8 +625,8 @@
     "relativePath": "scripts/scene/TestScene.js"
   },
   "da615b69-ce32-4328-92f0-68c60929ba75": {
-    "asset": 1588152608289,
-    "meta": 1588155656607,
+    "asset": 1588751926303,
+    "meta": 1588751926307,
     "relativePath": "scenes/Init.fire"
   },
   "dc9571ed-8b24-4202-a37c-21582c6951fe": {
@@ -1074,11 +1074,6 @@
     "meta": 1588238801363,
     "relativePath": "scripts/data/DataMng.js"
   },
-  "96793c0a-6a05-46f0-b1d3-76c8abba0676": {
-    "asset": 1588239038817,
-    "meta": 1588239040483,
-    "relativePath": "scripts/scene/GameScene.js"
-  },
   "b6b88d30-814a-42cf-a6ca-4f80f7424da0": {
     "asset": 1588239222335,
     "meta": 1588239226286,
@@ -1093,5 +1088,10 @@
     "asset": 1588239320634,
     "meta": 1588239321192,
     "relativePath": "scripts/scene/InitScene.js"
+  },
+  "96793c0a-6a05-46f0-b1d3-76c8abba0676": {
+    "asset": 1588751923532,
+    "meta": 1588751926148,
+    "relativePath": "scripts/scene/GameScene.js"
   }
 }
