@@ -23,5 +23,6 @@ cc.Class({
         other.node.stopAllActions();
         self.node.stopAllActions();
         zy.event.emit("gameover");
+        cc.log('小球碰撞，游戏失败');
     }
 });

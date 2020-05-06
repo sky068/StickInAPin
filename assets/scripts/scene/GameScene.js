@@ -122,13 +122,13 @@ cc.Class({
                 ball.y = y;
                 ball.angle = 180 - angle;
 
-                this._checkPass();
+                this.scheduleOnce(this._checkPass.bind(this), 0);
             })));
         }
     },
 
     _checkPass() {
-        if (this.smallBalls.length == 0) {
+        if (this._gameStart && this.smallBalls.length == 0) {
             this._gameStart = false;
             this.bgNode.color = cc.color("#4C7043");
             let des = "恭喜过关，即将进入下一关";
